@@ -1,0 +1,25 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "backend tnol",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "Express",
+    "RestAPI",
+    "MongoDB",
+    "Mongoose"
+  ],
+  "author": "sonnh",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongodb": "^3.4.1",
+    "mongoose": "^5.8.7",
+    "morgan": "^1.9.1"
+  }
+}
