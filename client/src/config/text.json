@@ -1,0 +1,2030 @@
+{
+  "entities": {
+    "courses": {
+      "bySlug": {
+        "learn-how-to-code": {
+          "uuid": "11a686a7fd57b8c214f7f92749388d42",
+          "locale": null,
+          "slug": "learn-how-to-code",
+          "title": "Learn How to Code",
+          "description": "Learn key programming concepts and write your first lines of code!",
+          "description_extended": "### Why Learn How to Code?\nProgramming is, quite literally, all around us. From the take-out we order, to the movies we stream, code is ever present in our lives. Whether you are about to start your journey as a web developer, can't decide which language to learn first, or just want to increase your digital literacy, learning programming fundamentals will be beneficial to your career. \n\nIn this series of lessons, you'll explore ideas that are at the heart of learning how to code and start writing your own code! \n\n### Take-Away Skills:\nYou will get a solid foundation in key programming concepts such as variables, functions, and control flow. Learning these concepts will set you up for success in any programming language that you choose to learn!",
+          "tags": [],
+          "meta": {},
+          "syllabus": {
+            "uuid": "11a686a7fd57b8c214f7f92749388d42",
+            "title": "Learn How to Code",
+            "description": null,
+            "meta": {},
+            "locale": null,
+            "tags": [],
+            "content_items": [
+              "78db41d9f095aedd3eb72b01809301f7",
+              "f3d1c75045d49d70f8792b7e1d64ea7d",
+              "1fb038e59b2ffa6752897d991140788f",
+              "4213ea6805e67ad58f6188657ecb0f3a",
+              "8ef2970ba934065d373502dab9644018",
+              "64d6c93ae687afb777f62517164f28b4",
+              "ea796318909f92a4a006ea96606ce0f0",
+              "f6e76be70aaa64eb05b610d342209f06",
+              "b27c687f1d15bd214de9bc4f50689afc",
+              "f65c18f43fcf9679475799730dfa0b62",
+              "98aebd539f67dbf7fee9c7c3a64ff0db",
+              "29a826f2461d0aac13ec2ae88d69e94f",
+              "513c831a98675ba8acb0b4f879d2d165",
+              "bbd7ad499d74d3b1ecfeb87e4afd403e",
+              "96ed8f1f48f7d0575de233fb8cdf6423"
+            ],
+            "course_uuids": [
+              "11a686a7fd57b8c214f7f92749388d42"
+            ],
+            "last_published": "2019-01-28T04:22:54.339+00:00",
+            "collections": {
+              "units": [
+                {
+                  "module_id": "baa2a568902757270acf21d83d0131bf",
+                  "start": 0,
+                  "length": 7,
+                  "meta": {
+                    "slug": "bop-i",
+                    "title": "Basics of Programming I",
+                    "description": "Learn the essential programming concepts of variables, operators, and data types."
+                  }
+                },
+                {
+                  "module_id": "3a7c9434cb68e736585e127ea1a3c6ee",
+                  "start": 7,
+                  "length": 4,
+                  "meta": {
+                    "slug": "bop-ii",
+                    "title": "Basics of Programming II",
+                    "description": "Learn the essential programming concepts of functions and control flow."
+                  }
+                },
+                {
+                  "module_id": "78a81782d5b269b44de4c21df5cf6f97",
+                  "start": 11,
+                  "length": 4,
+                  "meta": {
+                    "slug": "bop-iii",
+                    "title": "Basics of Programming III",
+                    "description": "Learn the essential programming concepts of lists and loops."
+                  }
+                }
+              ]
+            }
+          },
+          "type": "track",
+          "prerequisite_tracks": [],
+          "syllabusUuid": "11a686a7fd57b8c214f7f92749388d42"
+        }
+      }
+    },
+    "syllabuses": {
+      "byUuid": {
+        "11a686a7fd57b8c214f7f92749388d42": {
+          "uuid": "11a686a7fd57b8c214f7f92749388d42",
+          "title": "Learn How to Code",
+          "description": null,
+          "meta": {},
+          "locale": null,
+          "tags": [],
+          "content_items": [
+            "78db41d9f095aedd3eb72b01809301f7",
+            "f3d1c75045d49d70f8792b7e1d64ea7d",
+            "1fb038e59b2ffa6752897d991140788f",
+            "4213ea6805e67ad58f6188657ecb0f3a",
+            "8ef2970ba934065d373502dab9644018",
+            "64d6c93ae687afb777f62517164f28b4",
+            "ea796318909f92a4a006ea96606ce0f0",
+            "f6e76be70aaa64eb05b610d342209f06",
+            "b27c687f1d15bd214de9bc4f50689afc",
+            "f65c18f43fcf9679475799730dfa0b62",
+            "98aebd539f67dbf7fee9c7c3a64ff0db",
+            "29a826f2461d0aac13ec2ae88d69e94f",
+            "513c831a98675ba8acb0b4f879d2d165",
+            "bbd7ad499d74d3b1ecfeb87e4afd403e",
+            "96ed8f1f48f7d0575de233fb8cdf6423"
+          ],
+          "course_uuids": [
+            "11a686a7fd57b8c214f7f92749388d42"
+          ],
+          "last_published": "2019-01-28T04:22:54.339+00:00",
+          "collections": {
+            "units": [
+              {
+                "module_id": "baa2a568902757270acf21d83d0131bf",
+                "start": 0,
+                "length": 7,
+                "meta": {
+                  "slug": "bop-i",
+                  "title": "Basics of Programming I",
+                  "description": "Learn the essential programming concepts of variables, operators, and data types."
+                }
+              },
+              {
+                "module_id": "3a7c9434cb68e736585e127ea1a3c6ee",
+                "start": 7,
+                "length": 4,
+                "meta": {
+                  "slug": "bop-ii",
+                  "title": "Basics of Programming II",
+                  "description": "Learn the essential programming concepts of functions and control flow."
+                }
+              },
+              {
+                "module_id": "78a81782d5b269b44de4c21df5cf6f97",
+                "start": 11,
+                "length": 4,
+                "meta": {
+                  "slug": "bop-iii",
+                  "title": "Basics of Programming III",
+                  "description": "Learn the essential programming concepts of lists and loops."
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "courseProgresses": {
+      "bySlug": {
+        "learn-how-to-code": {
+          "started": true,
+          "items_complete": 0,
+          "items_total": 15,
+          "lesson": {
+            "total": 7,
+            "complete": 0
+          },
+          "quiz": {
+            "total": 7,
+            "complete": 0
+          },
+          "project": {
+            "total": 0,
+            "complete": 0
+          },
+          "article": {
+            "total": 1,
+            "complete": 0
+          },
+          "video": {
+            "total": 0,
+            "complete": 0
+          },
+          "informational": {
+            "total": 0,
+            "complete": 0
+          },
+          "percent_complete": 0,
+          "completed": false,
+          "last_active": "2020-02-12T15:04:17.327Z",
+          "units": [
+            {
+              "started": true,
+              "items_complete": 0,
+              "items_total": 7,
+              "lesson": {
+                "total": 3,
+                "complete": 0
+              },
+              "quiz": {
+                "total": 3,
+                "complete": 0
+              },
+              "project": {
+                "total": 0,
+                "complete": 0
+              },
+              "article": {
+                "total": 1,
+                "complete": 0
+              },
+              "video": {
+                "total": 0,
+                "complete": 0
+              },
+              "informational": {
+                "total": 0,
+                "complete": 0
+              },
+              "percent_complete": 0,
+              "completed": false
+            },
+            {
+              "started": false,
+              "items_complete": 0,
+              "items_total": 4,
+              "lesson": {
+                "total": 2,
+                "complete": 0
+              },
+              "quiz": {
+                "total": 2,
+                "complete": 0
+              },
+              "project": {
+                "total": 0,
+                "complete": 0
+              },
+              "article": {
+                "total": 0,
+                "complete": 0
+              },
+              "video": {
+                "total": 0,
+                "complete": 0
+              },
+              "informational": {
+                "total": 0,
+                "complete": 0
+              },
+              "percent_complete": 0,
+              "completed": false
+            },
+            {
+              "started": false,
+              "items_complete": 0,
+              "items_total": 4,
+              "lesson": {
+                "total": 2,
+                "complete": 0
+              },
+              "quiz": {
+                "total": 2,
+                "complete": 0
+              },
+              "project": {
+                "total": 0,
+                "complete": 0
+              },
+              "article": {
+                "total": 0,
+                "complete": 0
+              },
+              "video": {
+                "total": 0,
+                "complete": 0
+              },
+              "informational": {
+                "total": 0,
+                "complete": 0
+              },
+              "percent_complete": 0,
+              "completed": false
+            }
+          ]
+        }
+      }
+    },
+    "contentItemProgresses": {
+      "byId": {
+        "78db41d9f095aedd3eb72b01809301f7": {
+          "content_item_id": "78db41d9f095aedd3eb72b01809301f7",
+          "user_id": "58610e9f2ddfa32ab400039e",
+          "started": false,
+          "completed": false,
+          "user_completed": false,
+          "started_at": null,
+          "user_completed_at": null,
+          "completed_at": null,
+          "last_updated": null,
+          "type": "article"
+        },
+        "f3d1c75045d49d70f8792b7e1d64ea7d": {
+          "content_item_id": "f3d1c75045d49d70f8792b7e1d64ea7d",
+          "user_id": "58610e9f2ddfa32ab400039e",
+          "started": true,
+          "completed": false,
+          "user_completed": false,
+          "started_at": "2020-02-12T15:03:57Z",
+          "user_completed_at": null,
+          "completed_at": null,
+          "last_updated": "2020-02-12T15:04:17Z",
+          "exercises_completed": 4,
+          "current_exercise_checkpoints_completed": 0,
+          "type": "lesson",
+          "exercises_total": 5,
+          "progress_pct": 80
+        },
+        "1fb038e59b2ffa6752897d991140788f": {
+          "content_item_id": "1fb038e59b2ffa6752897d991140788f",
+          "user_id": "58610e9f2ddfa32ab400039e",
+          "started": false,
+          "completed": false,
+          "user_completed": false,
+          "started_at": null,
+          "user_completed_at": null,
+          "completed_at": null,
+          "last_updated": null,
+          "type": "quiz",
+          "total": null,
+          "correct": null,
+          "pct": null,
+          "highest_pct": null,
+          "passed": false,
+          "passed_any": false,
+          "taken": false,
+          "quiz_attempts": []
+        },
+        "4213ea6805e67ad58f6188657ecb0f3a": {
+          "content_item_id": "4213ea6805e67ad58f6188657ecb0f3a",
+          "user_id": "58610e9f2ddfa32ab400039e",
+          "started": false,
+          "completed": false,
+          "user_completed": false,
+          "started_at": null,
+          "user_completed_at": null,
+          "completed_at": null,
+          "last_updated": null,
+          "exercises_completed": 0,
+          "current_exercise_checkpoints_completed": 0,
+          "type": "lesson",
+          "exercises_total": 6,
+          "progress_pct": 0
+        },
+        "8ef2970ba934065d373502dab9644018": {
+          "content_item_id": "8ef2970ba934065d373502dab9644018",
+          "user_id": "58610e9f2ddfa32ab400039e",
+          "started": false,
+          "completed": false,
+          "user_completed": false,
+          "started_at": null,
+          "user_completed_at": null,
+          "completed_at": null,
+          "last_updated": null,
+          "type": "quiz",
+          "total": null,
+          "correct": null,
+          "pct": null,
+          "highest_pct": null,
+          "passed": false,
+          "passed_any": false,
+          "taken": false,
+          "quiz_attempts": []
+        },
+        "64d6c93ae687afb777f62517164f28b4": {
+          "content_item_id": "64d6c93ae687afb777f62517164f28b4",
+          "user_id": "58610e9f2ddfa32ab400039e",
+          "started": false,
+          "completed": false,
+          "user_completed": false,
+          "started_at": null,
+          "user_completed_at": null,
+          "completed_at": null,
+          "last_updated": null,
+          "exercises_completed": 0,
+          "current_exercise_checkpoints_completed": 0,
+          "type": "lesson",
+          "exercises_total": 6,
+          "progress_pct": 0
+        },
+        "ea796318909f92a4a006ea96606ce0f0": {
+          "content_item_id": "ea796318909f92a4a006ea96606ce0f0",
+          "user_id": "58610e9f2ddfa32ab400039e",
+          "started": false,
+          "completed": false,
+          "user_completed": false,
+          "started_at": null,
+          "user_completed_at": null,
+          "completed_at": null,
+          "last_updated": null,
+          "type": "quiz",
+          "total": null,
+          "correct": null,
+          "pct": null,
+          "highest_pct": null,
+          "passed": false,
+          "passed_any": false,
+          "taken": false,
+          "quiz_attempts": []
+        },
+        "f6e76be70aaa64eb05b610d342209f06": {
+          "content_item_id": "f6e76be70aaa64eb05b610d342209f06",
+          "user_id": "58610e9f2ddfa32ab400039e",
+          "started": false,
+          "completed": false,
+          "user_completed": false,
+          "started_at": null,
+          "user_completed_at": null,
+          "completed_at": null,
+          "last_updated": null,
+          "exercises_completed": 0,
+          "current_exercise_checkpoints_completed": 0,
+          "type": "lesson",
+          "exercises_total": 6,
+          "progress_pct": 0
+        },
+        "b27c687f1d15bd214de9bc4f50689afc": {
+          "content_item_id": "b27c687f1d15bd214de9bc4f50689afc",
+          "user_id": "58610e9f2ddfa32ab400039e",
+          "started": false,
+          "completed": false,
+          "user_completed": false,
+          "started_at": null,
+          "user_completed_at": null,
+          "completed_at": null,
+          "last_updated": null,
+          "type": "quiz",
+          "total": null,
+          "correct": null,
+          "pct": null,
+          "highest_pct": null,
+          "passed": false,
+          "passed_any": false,
+          "taken": false,
+          "quiz_attempts": []
+        },
+        "f65c18f43fcf9679475799730dfa0b62": {
+          "content_item_id": "f65c18f43fcf9679475799730dfa0b62",
+          "user_id": "58610e9f2ddfa32ab400039e",
+          "started": false,
+          "completed": false,
+          "user_completed": false,
+          "started_at": null,
+          "user_completed_at": null,
+          "completed_at": null,
+          "last_updated": null,
+          "exercises_completed": 0,
+          "current_exercise_checkpoints_completed": 0,
+          "type": "lesson",
+          "exercises_total": 6,
+          "progress_pct": 0
+        },
+        "98aebd539f67dbf7fee9c7c3a64ff0db": {
+          "content_item_id": "98aebd539f67dbf7fee9c7c3a64ff0db",
+          "user_id": "58610e9f2ddfa32ab400039e",
+          "started": false,
+          "completed": false,
+          "user_completed": false,
+          "started_at": null,
+          "user_completed_at": null,
+          "completed_at": null,
+          "last_updated": null,
+          "type": "quiz",
+          "total": null,
+          "correct": null,
+          "pct": null,
+          "highest_pct": null,
+          "passed": false,
+          "passed_any": false,
+          "taken": false,
+          "quiz_attempts": []
+        },
+        "29a826f2461d0aac13ec2ae88d69e94f": {
+          "content_item_id": "29a826f2461d0aac13ec2ae88d69e94f",
+          "user_id": "58610e9f2ddfa32ab400039e",
+          "started": false,
+          "completed": false,
+          "user_completed": false,
+          "started_at": null,
+          "user_completed_at": null,
+          "completed_at": null,
+          "last_updated": null,
+          "exercises_completed": 0,
+          "current_exercise_checkpoints_completed": 0,
+          "type": "lesson",
+          "exercises_total": 6,
+          "progress_pct": 0
+        },
+        "513c831a98675ba8acb0b4f879d2d165": {
+          "content_item_id": "513c831a98675ba8acb0b4f879d2d165",
+          "user_id": "58610e9f2ddfa32ab400039e",
+          "started": false,
+          "completed": false,
+          "user_completed": false,
+          "started_at": null,
+          "user_completed_at": null,
+          "completed_at": null,
+          "last_updated": null,
+          "type": "quiz",
+          "total": null,
+          "correct": null,
+          "pct": null,
+          "highest_pct": null,
+          "passed": false,
+          "passed_any": false,
+          "taken": false,
+          "quiz_attempts": []
+        },
+        "bbd7ad499d74d3b1ecfeb87e4afd403e": {
+          "content_item_id": "bbd7ad499d74d3b1ecfeb87e4afd403e",
+          "user_id": "58610e9f2ddfa32ab400039e",
+          "started": false,
+          "completed": false,
+          "user_completed": false,
+          "started_at": null,
+          "user_completed_at": null,
+          "completed_at": null,
+          "last_updated": null,
+          "exercises_completed": 0,
+          "current_exercise_checkpoints_completed": 0,
+          "type": "lesson",
+          "exercises_total": 6,
+          "progress_pct": 0
+        },
+        "96ed8f1f48f7d0575de233fb8cdf6423": {
+          "content_item_id": "96ed8f1f48f7d0575de233fb8cdf6423",
+          "user_id": "58610e9f2ddfa32ab400039e",
+          "started": false,
+          "completed": false,
+          "user_completed": false,
+          "started_at": null,
+          "user_completed_at": null,
+          "completed_at": null,
+          "last_updated": null,
+          "type": "quiz",
+          "total": null,
+          "correct": null,
+          "pct": null,
+          "highest_pct": null,
+          "passed": false,
+          "passed_any": false,
+          "taken": false,
+          "quiz_attempts": []
+        }
+      }
+    },
+    "contentItems": {
+      "byUuid": {
+        "78db41d9f095aedd3eb72b01809301f7": {
+          "uuid": "78db41d9f095aedd3eb72b01809301f7",
+          "type": "article",
+          "slug": "what-is-programming",
+          "meta": {
+            "is_free": true
+          },
+          "title": "What is Programming?",
+          "locale": null,
+          "tags": [],
+          "time": 10,
+          "content": {
+            "body": "### PROGRAMMING IS EVERYWHERE\n\nProgramming is, quite literally, all around us. From the take-out we order, to the movies we stream, code enables everyday actions in our lives. Tech companies are no longer recognizable as just software companies — instead, they bring food to our door, help us get a taxi, influence outcomes in presidential elections, or act as a personal trainer.\n\n_When you're walking down the street, where can you find technology in your environment? \nClick on the white circles._\n\u003ciframe src='https://s3.amazonaws.com/codecademy-content/programs/code-foundations-path/bop-i/intro-article-programming-everywhere/index.html' height='400px' style='border-style: none;'\u003e\u003c/iframe\u003e\n\u003cbr\u003e\n\n### ...AND PROGRAMMING IS FOR EVERYONE\n\nFor many years, only a few people have known how to code. However, that's starting to change. The number of people learning to code is increasing year by year, with estimates around \u003ca href=\"https://www.idc.com/getdoc.jsp?containerId=US44363318\" target=\"_blank\"\u003e22.3 million software developers worldwide\u003c/a\u003e, which doesn't even account for the many OTHER careers that relate to programming. \n\n\nHere at Codecademy, our mission is to make technical knowledge accessible and applicable. Technology plays a crucial role in our economy — but programming is no longer just for software engineers. Any person can benefit from learning to program — whether it’s learning HTML to improve your marketing emails or taking a SQL course to add a dose of analysis to your research role. \n\nEven outside of the tech industry, learning to program is essential to participating in the world around you: it affects the products you buy, the legal policies you vote for, and the data you share online.\n\nSo, let’s dig into what programming is.\n\n### WHAT IS PROGRAMMING?\n\nPut simply, programming is giving a set of instructions to a computer to execute. If you’ve ever cooked using a recipe before, you can think of yourself as the computer and the recipe’s author as a programmer. The recipe author provides you with a set of instructions which you read and then follow. The more complex the instructions, the more complex the result! \n\n_How good are you at giving instructions? Try and get Codey to draw a square!_\n\n\u003ciframe src='https://s3.amazonaws.com/codecademy-content/programs/code-foundations-path/bop-i/intro-article-turtle-codey/index.html' height='400px' style='border-style: none;'\u003e\u003c/iframe\u003e\n\u003cbr\u003e\n\n### PROGRAMMING AS COMMUNICATION, or CODING\n\n“Ok, so now I know what programming is, but what’s coding? I’m here to learn how to code. Are they the same thing?”\n\nWhile sometimes used interchangeably, programming and coding actually have different definitions. \n\n- *Programming* is the mental process of thinking up instructions to give to a machine (like a computer).\n- *Coding* is the process of transforming those ideas into a written language that a computer can understand.\n\nOver the past century, humans have been trying to figure out how to best communicate with computers through different programming languages. Programming has evolved from punch cards with rows of numbers that a machine read, to drag-and-drop interfaces that increase programming speed, with lots of other methods in between.\n\n![pictures of different punchcards](https://media.giphy.com/media/1YhafU1NFtethNxJwa/giphy.gif)\n\u003cp\u003e\u003ca href=\"https://giphy.com/gifs/punch-card-computer-1YhafU1NFtethNxJwa\" target=\"_blank\"\u003evia GIPHY\u003c/a\u003e\u003c/p\u003e\n\nTo this day, people are still developing programming languages, trying to improve our  programming efficiency. Others are building new languages that improve accessibility to learning to code, like \u003ca href=\"http://nas.sr/%D9%82%D9%84%D8%A8/\" target=\"_blank\"\u003edeveloping an Arabic programming language\u003c/a\u003e or improving access for the \u003ca href=\"http://ability.nyu.edu/processing\" target=\"_blank\"\u003eblind and visually impaired\u003c/a\u003e.\n\n### PROGRAMMING AS COLLABORATION\n\n\n_“The problem with programming is not that the computer isn’t logical—the computer is terribly logical, relentlessly literal-minded.”_\n\nEllen Ullman, _Life in Code_\n\n\nWhen we give instructions to a computer through code, we are, in our own way, communicating with the computer. But since computers are built differently than we are, we have to translate our instructions in a way that computers will understand.\n\nComputers interpret instructions in a very literal manner, so we have to be very specific in how we program them. Think about instructing someone to walk. If you start by telling them, “Put your foot in front of yourself,” do they know what a foot is? Or what front means? (and now we understand why it’s taken so long to develop bipedal robots…). In coding, that could mean making sure that small things like punctuation and spelling are correct. Many tears have been shed over a missing semicolon (`;`) a symbol that a lot of programming languages use to denote the end of a line.\n\nBut rather than think of this as a boss-employee relationship, it’s more helpful to think about our relationship with computers as a collaboration.\n\nThe computer is just one (particularly powerful) tool in a long list of tools that humans have used to extend and augment their ability.\n\nAs mentioned before, computers are very good at certain things and well, not so good at others. But here’s the good news: the things that computers are good at, humans suck at, and the things that computers suck at, humans are good at! Take a look at this handy table:\n\n![table comparing human and computer abilities](https://s3.amazonaws.com/codecademy-content/programs/code-foundations-path/bop-i/human_computer.png)\n\nJust imagine what we can accomplish when we work together! We can make movies with incredible special effects, have continuous 24/7 factory production, and improve our cities and health. \n\n![picture of a robot-human](https://media.giphy.com/media/eyawSuxAexInC/giphy.gif)\n\u003cp\u003e\u003ca href=\"https://giphy.com/gifs/robot-human-fx2-eyawSuxAexInC\" target=\"_blank\"\u003evia GIPHY\u003c/a\u003e\u003c/p\u003e\n\n_The best computer programs are the ones that enable us to make things that we couldn't do on our own, but leverage our creative capacities. We may be good at drawing, but a computer is great at doing the same task repeatedly \u0026mdash; and quickly!_\n\n\u003ciframe src='https://s3.amazonaws.com/codecademy-content/programs/code-foundations-path/bop-i/intro-article-replication/index.html' height='400px' style='border-style: none;'\u003e\u003c/iframe\u003e\n\u003cbr\u003e\n\n### CONCLUSION\n\nAs programming becomes a larger part of our lives, it’s vital that everyone has an understanding of what programming is and how it can be used. Programming is important to our careers, but it also plays a key role in how we participate in politics, how we buy things, and how we stay in touch with one another.\n\nLearning to code is an exciting journey. Whether your goal is to build a mobile app, search a database, or program a robot, coding is a skill that will take you far in life. Just remember — computers are tools. While learning to program may initially be frustrating, if you choose to stick with it, you’ll be able to make some brilliant things.",
+            "description": "Programming is a collaboration between humans and computers. ",
+            "title": "What is Programming?",
+            "item_reference": [],
+            "reference_slugs": {}
+          },
+          "youtube_id": null,
+          "thumbnail_url": null,
+          "description": "Programming is a collaboration between humans and computers. ",
+          "published_exercise_ids": []
+        },
+        "f3d1c75045d49d70f8792b7e1d64ea7d": {
+          "uuid": "f3d1c75045d49d70f8792b7e1d64ea7d",
+          "type": "lesson",
+          "slug": "bop-variables",
+          "meta": {
+            "ex_count": 5
+          },
+          "title": "Variables",
+          "locale": null,
+          "tags": [],
+          "time": 29,
+          "content": {
+            "slug": "variables",
+            "title": "Variables",
+            "description": "Learn about the programming concept, variables. ",
+            "exercises": [
+              {
+                "node_type": "exercise",
+                "locale": "en",
+                "uuid": "9f956783bc8a93f024cf4a62ab9d237b",
+                "slug": "variables-intro",
+                "title": "Introduction to Variables",
+                "workspace": {
+                  "slug": "variables-variables-intro",
+                  "type": "javascript",
+                  "backend": "workshop"
+                },
+                "instructionsandhints": [],
+                "components": [
+                  {
+                    "url": "https://s3.amazonaws.com/codecademy-content/programs/code-foundations-path/bop-i/variables/exercise_1/index.html",
+                    "_schema": "WebBrowser"
+                  },
+                  {
+                    "content": "In programming, we have a way of storing values so that we can reuse them throughout our program or change them, if necessary. This concept is known as a _variable_. \n\nMaybe you're familiar with the math term _variable_, or the word _variability_. Programming variables share qualities with each. Similar to a variable in math, a variable is a way of saving a piece of information with a specific name. By giving a value a name, we can easily reuse that value over and over again in our code. Like the idea of variability, a programming variable allows us to easily change a value throughout our code.\n\nVariables are an important first step in coding because with variables we can introduce \u003ca href=\"https://en.wikipedia.org/wiki/Abstraction_principle_(computer_programming)\" target=\"_blank\"\u003eabstraction\u003c/a\u003e into our code. Rather than writing out a piece of data every time we need it, we write it out once. \n\nIn this lesson, we'll explore why variables are an important part of programming, including:\n\n- Using variables to reuse a value\n- Using variables to change a value \n",
+                    "instructions": "Imagine that you're building a game using tiles with different patterns, representing different \u003ca href=\"https://en.wikipedia.org/wiki/Terrain\" target=\"_blank\"\u003eterrains\u003c/a\u003e.  \n\nThe tiles need to be placed in the following order:\n\nFirst row:\n- grass\n- rocks\n- grass\n\nSecond row:\n- forest\n- rocks\n- forest \n\nThird row: \n- rocks\n- grass\n- rocks\n\nIn each box, enter the type of terrain that should go in the accompanying tile. Continue until the entire board is filled. ",
+                    "_schema": "Narrative"
+                  }
+                ],
+                "tests": {},
+                "filepath": "new/content/courses/en/cf-bop-i/units/cf-bop-i/lessons/variables/exercises/variables-intro.en.yml"
+              },
+              {
+                "node_type": "exercise",
+                "locale": "en",
+                "uuid": "a12c18b2567d7d03f8a5636dded4251b",
+                "slug": "variables-storing",
+                "title": "Reusing Values in Variables",
+                "workspace": {
+                  "slug": "variables-variables-storing",
+                  "type": "javascript",
+                  "backend": "workshop"
+                },
+                "instructionsandhints": [],
+                "components": [
+                  {
+                    "url": "https://s3.amazonaws.com/codecademy-content/programs/code-foundations-path/bop-i/variables/exercise_2/index.html",
+                    "_schema": "WebBrowser"
+                  },
+                  {
+                    "content": "One reason we use variables is that they allow us to easily _reuse_ values in different parts of our code. \n\nWhen we reuse a value, it means that it will appear in multiple places in our code. If that value is very long or difficult to type, this can get annoying really fast and be an opportunity for mistakes. It may also be unclear as to what that value is meant to represent. \n\n```js\n847595593392818109495\n847595593392818109495 * 2\n847595593392818109495 / 4\n```\n\nRather than writing the same number over and over again, we can save it to a variable named `my_number`: \n\n```js\nmy_number = 847595593392818109495\nmy_number * 2\nmy_number / 4\n```\n\nYou may be thinking, \"But what if my variable name is longer than the value it stores? What's the point of a variable?\" \n\nWhen we use a value without assigning it to a variable, that's known as _hardcoding_. While it's sometimes faster to initially hardcode values in your program, in the long run you'll run into trouble - especially if you need to change what those values are. \n\n\n\n\n\n\n\n\n\n\n\n\n",
+                    "instructions": "The last time we built our game, we repeated ourselves a lot. Instead of writing out the pattern for each tile, let's save the types of terrain we want to use to a set of variables that we can use across the board. \n\nReplicate the previous design by making each variable equal to one of the following:\n- grass\n- rocks\n- forest\n\nAfter you enter your choices, run the code. What do you notice about the board?\n\nHow was this process different from the last exercise? Did variables make this process more efficient?",
+                    "_schema": "Narrative"
+                  }
+                ],
+                "tests": {},
+                "filepath": "new/content/courses/en/cf-bop-i/units/cf-bop-i/lessons/variables/exercises/variables-storing.en.yml"
+              },
+              {
+                "node_type": "exercise",
+                "locale": "en",
+                "uuid": "16698feb1428071f41b5b1bf277c5812",
+                "slug": "variables-changing",
+                "title": "Changing the Value of a Variable ",
+                "workspace": {
+                  "slug": "variables-variables-changing",
+                  "type": "javascript",
+                  "backend": "workshop"
+                },
+                "instructionsandhints": [],
+                "components": [
+                  {
+                    "url": "https://s3.amazonaws.com/codecademy-content/programs/code-foundations-path/bop-i/variables/exercise_3/index.html",
+                    "_schema": "WebBrowser"
+                  },
+                  {
+                    "content": "The strong selling point of using a variable is that we can easily change their value, making our programs flexible. \n\nAs we saw in the last exercise, we can save a number to a variable and reuse it throughout a program:\n\n```js\nmy_number = 847595593392818109495\nmy_number * 2\nmy_number / 4\n```\n\nWe could easily switch out the value of my_number, without having to change that number in multiple places in our code. \n\n```js\nmy_number = 1\nmy_number * 2\nmy_number / 4\n```\n\nWe could also change the value of `my_number` part way through our program:\n\n```js\nmy_number = 1\nmy_number * 2\n\nmy_number = 3\nmy_number / 4\n```\n",
+                    "instructions": "You'd like there to be options for an expansion pack, and that means - more terrains! \n\nUse the drop-down menus to explore the different options for the board and try creating new game designs by swapping out the different terrains. ",
+                    "_schema": "Narrative"
+                  }
+                ],
+                "tests": {},
+                "filepath": "new/content/courses/en/cf-bop-i/units/cf-bop-i/lessons/variables/exercises/variables-changing.en.yml"
+              },
+              {
+                "node_type": "exercise",
+                "locale": "en",
+                "uuid": "5a7414f03f0d16f39599b9b94b1e9f10",
+                "slug": "var-all-together",
+                "title": "Putting it All Together",
+                "workspace": {
+                  "slug": "variables-var-all-together",
+                  "type": "static",
+                  "backend": "workshop"
+                },
+                "instructionsandhints": [],
+                "components": [
+                  {
+                    "files": [
+                      {
+                        "filename": "main.js"
+                      }
+                    ],
+                    "_schema": "PersistentCodeEditor"
+                  },
+                  {
+                    "url": "localhost:8000/",
+                    "_schema": "WebBrowser"
+                  },
+                  {
+                    "content": "Now that you know a bit about variables, let's code some ourselves! \n\nWe create or _declare_ a variable by giving it a name and setting it equal to a value. \n\n```js\nterrain = 'lake'\n```\n\nIn the code editor, we've written out an example of a variable declaration. We've included one variable in the workspace, named `one`, and it's currently set to `'grass'`. \n\n",
+                    "instructions": "Below variable 'one' is another variable called `two`. Set variable 'two' to equal `'rocks'`.  Remember to pay attention to details, like punctuation. \n\nNext, create a variable `three` and set it equal to `'forest'`. \n\nRun the code! How does the board game change?  \n\nNow, try replacing the values with other ones that you've seen in this lesson! Here's the full list:\n\nGroup 1:\n- grass\n- rocks\n- forest\n\nGroup 2:\n- lake\n- beach\n- town\n\nGroup 3:\n- glacier\n- desert\n- moon\n \n\n",
+                    "_schema": "Narrative"
+                  }
+                ],
+                "tests": {},
+                "filepath": "new/content/courses/en/cf-bop-i/units/cf-bop-i/lessons/variables/exercises/var-all-together.en.yml"
+              },
+              {
+                "node_type": "exercise",
+                "locale": "en",
+                "uuid": "18bebf2adc72815f701916e5ae16266e",
+                "slug": "review-var",
+                "title": "Review - Variables",
+                "workspace": {
+                  "slug": "blank-workspace",
+                  "type": "static",
+                  "backend": "workshop"
+                },
+                "instructionsandhints": [],
+                "components": [
+                  {
+                    "url": "https://s3.amazonaws.com/codecademy-content/programs/code-foundations-path/bop-i/variables/exercise_3/index.html",
+                    "_schema": "WebBrowser"
+                  },
+                  {
+                    "content": "Congrats! Now you've learned about variables and why they're useful in programming.\nIn this lesson, we learned that: \n- _Variables_ allow us to store information\n- Variables allow us to quickly _reuse_ a value in our program.\n- Variables let us easily _change_ a value in our program.  \n\nIn the next lesson, we'll look at different kinds of information that we can use in a program and save to variables. ",
+                    "_schema": "Narrative"
+                  }
+                ],
+                "tests": {},
+                "filepath": "new/content/courses/en/cf-bop-i/units/cf-bop-i/lessons/variables/exercises/review-var.en.yml"
+              }
+            ]
+          },
+          "youtube_id": null,
+          "thumbnail_url": null,
+          "description": "Learn about the programming concept known as variables. ",
+          "published_exercise_ids": [
+            "9f956783bc8a93f024cf4a62ab9d237b",
+            "a12c18b2567d7d03f8a5636dded4251b",
+            "16698feb1428071f41b5b1bf277c5812",
+            "5a7414f03f0d16f39599b9b94b1e9f10",
+            "18bebf2adc72815f701916e5ae16266e"
+          ]
+        },
+        "1fb038e59b2ffa6752897d991140788f": {
+          "uuid": "1fb038e59b2ffa6752897d991140788f",
+          "type": "quiz",
+          "slug": "bop-variables-quiz",
+          "meta": {
+            "is_free": true
+          },
+          "title": "Variables Quiz",
+          "locale": null,
+          "tags": [],
+          "time": 5,
+          "content": {},
+          "youtube_id": null,
+          "thumbnail_url": null,
+          "description": "Quiz on the concept of variables. ",
+          "published_exercise_ids": []
+        },
+        "4213ea6805e67ad58f6188657ecb0f3a": {
+          "uuid": "4213ea6805e67ad58f6188657ecb0f3a",
+          "type": "lesson",
+          "slug": "bop-datatypes",
+          "meta": {
+            "ex_count": 6
+          },
+          "title": "Data Types",
+          "locale": null,
+          "tags": [],
+          "time": 41,
+          "content": {
+            "slug": "datatypes",
+            "title": "Data Types",
+            "description": "Learn about data types, the building blocks of programming. ",
+            "exercises": [
+              {
+                "node_type": "exercise",
+                "locale": "en",
+                "uuid": "1143460064be02fdbb453c7eccc85f1e",
+                "slug": "datatypes",
+                "title": "Introduction to Data Types",
+                "workspace": {
+                  "slug": "variable-datatypes-datatypes",
+                  "type": "static",
+                  "backend": "workshop"
+                },
+                "instructionsandhints": [],
+                "components": [
+                  {
+                    "url": "https://s3.amazonaws.com/codecademy-content/programs/code-foundations-path/bop-i/data-types/intro/index.html",
+                    "_schema": "WebBrowser"
+                  },
+                  {
+                    "content": "__Data__ is a basic unit in programming. Without data, we couldn't write any programs! But what *is* data? We may be familiar with data as information, or facts. In computing, data is the pieces of information that we use to build programs, like the numbers in a calculation, or the text printed to a screen. \n\n__Data types__ are exactly what they sound like: different types of data. Data types tell us about the data, including how it can be stored and what types of operations we can perform on them. For example, we can write a program that squares numbers, but it wouldn't be able to square a word.\n\nIn programming, there's a special group of data types called __primitives__. Primitives are the most basic data types, so basic that you can find them in pretty much every programming language. They include:\n\n- Numbers\n- Strings\n- Boolean values (True or False)\n\nIn the following exercises, we'll dig a little deeper into each primitive data type and what you generally can (and can't do) with each one. ",
+                    "instructions": "Computers can do different things with different kinds of data. This computer will process data according to the function that you give it. If the function matches the data type, you will get an answer! If it doesn't, you'll see an error. \n\nThe functions do the following:\n\n- **capitalize**:  will turn lowercase characters into uppercase characters\n- **square**:  will square a number\n- **evaluate**:  will determine if an input is true or false",
+                    "_schema": "Narrative"
+                  }
+                ],
+                "tests": {},
+                "filepath": "new/content/courses/en/cf-bop-i/units/cf-bop-i/lessons/datatypes/exercises/datatypes.en.yml"
+              },
+              {
+                "node_type": "exercise",
+                "locale": "en",
+                "uuid": "f4f8b2338ee67e2ede1a5a79fe6d896c",
+                "slug": "numbers",
+                "title": "Numbers",
+                "workspace": {
+                  "slug": "variable-datatypes-numbers",
+                  "type": "static",
+                  "backend": "workshop"
+                },
+                "instructionsandhints": [],
+                "components": [
+                  {
+                    "url": "https://s3.amazonaws.com/codecademy-content/programs/code-foundations-path/bop-i/data-types/numbers/index.html",
+                    "_schema": "WebBrowser"
+                  },
+                  {
+                    "content": "__Numbers__ are the original data type. The earliest computers communicated only in numbers, using \u003ca href=\"https://cs.brown.edu/~adf/programming_languages.html\"\u003c target=\"_blank\"\u003ebinary computation\u003c/a\u003e. \n\nWe no longer just program using numbers, but numbers still have special properties and are used to do the following:\n\n- __Describe__ \u0026mdash; numbers are used to express value: what is the frequency of a sound wave? We can express that in a number, such as 800hz. \n- __Calculate__ \u0026mdash; numbers are used in calculations: what's the distance between the earth and mars?\n- __Count__ \u0026mdash; numbers are used to keep track: how many times did the car go around the track?\n\nWhile we can do a lot of things with numbers, there are a few things we can't do with them. For example, say we have the number 20 and the text, \"I am 20 years old.\" While both deal with the idea of 20 as a value, a computer could perform mathematical operations on the first piece of data, but not on the second.",
+                    "instructions": "Numbers allows us to write programs that store values, count, and make calculations. This program calculates the numerical distance between different points in space and keeps count of how far we've gone! ",
+                    "_schema": "Narrative"
+                  }
+                ],
+                "tests": {},
+                "filepath": "new/content/courses/en/cf-bop-i/units/cf-bop-i/lessons/datatypes/exercises/numbers.en.yml"
+              },
+              {
+                "node_type": "exercise",
+                "locale": "en",
+                "uuid": "4b0f5ae1d55e0b49b98f73c5dbb6d0a1",
+                "slug": "strings",
+                "title": "Strings",
+                "workspace": {
+                  "slug": "variable-datatypes-strings",
+                  "type": "static",
+                  "backend": "workshop"
+                },
+                "instructionsandhints": [],
+                "components": [
+                  {
+                    "url": "https://s3.amazonaws.com/codecademy-content/programs/code-foundations-path/bop-i/data-types/strings/index.html",
+                    "_schema": "WebBrowser"
+                  },
+                  {
+                    "content": "But what if we want to work with data that isn't a number? We can represent other forms of data as a __string__.\n\nStrings are any sequence of characters (letters, spaces, numbers, or symbols). While almost anything can be a string, they are typically used to represent text or speech. Similar to how we represent speech in writing, we surround strings with single (`'...'`) or double quotes (`\"...\"`). \n\nBut why the name _strings_? Strings are a sequence of symbols, so we can think of each characters being strung together, like beads in a necklace. \n\nSo, what can we use strings for? \n- To display data that uses text or symbols, like printing our name to the screen. \n- To add or remove text. Since strings are a linear sequence of characters, we can break strings into even smaller strings, or combine strings to make longer ones. \n- To modify characters. For example, we could capitalize the first letter of every word in a string if wanted to turn it into a title. \n- To let the computer communicate with us in a \"human-readable\" way, like displaying the rules of an online game. \n\nStrings may sometimes look similar to other data types. But it's important to remember that even if a number looks like a number, or a boolean looks like a boolean, it's good to check that it's not a string \u0026mdash; or else you won't be able to use it correctly! \n\nTake the following string: `'20'`. The string `'20'` is different from the numerical value of `20`. While they appear to be the same, a computer would see the first as two characters: `'2'` and `'0'`, while the second contains the numerical value of `20`.",
+                    "instructions": "While we can think of strings as chunks of text, it's also useful to remember that they're just a collection of individual characters, like letters in a banner!",
+                    "_schema": "Narrative"
+                  }
+                ],
+                "tests": {},
+                "filepath": "new/content/courses/en/cf-bop-i/units/cf-bop-i/lessons/datatypes/exercises/strings.en.yml"
+              },
+              {
+                "node_type": "exercise",
+                "locale": "en",
+                "uuid": "934ad81189f3e20104b7352285c4a272",
+                "slug": "boolean",
+                "title": "Boolean",
+                "workspace": {
+                  "slug": "variable-datatypes-boolean",
+                  "type": "static",
+                  "backend": "workshop"
+                },
+                "instructionsandhints": [],
+                "components": [
+                  {
+                    "url": "https://s3.amazonaws.com/codecademy-content/programs/code-foundations-path/bop-i/data-types/boolean/index.html",
+                    "_schema": "WebBrowser"
+                  },
+                  {
+                    "content": "This next data type has a special importance to computing. __Boolean values__ represent the logical ideas of true and false. \n\nBooleans, unlike numbers or strings, only have two values: `true` and `false`. The term boolean comes from the inventor of a specific form of logic, \u003ca href=\"https://en.wikipedia.org/wiki/George_Boole\" target=\"_blank\"\u003eGeorge Boole\u003c/a\u003e. Logic is important to computer science because it is an early attempt at translating the human capacity for reason to computers.\n\nSo, what do we use booleans for?\n- To determine validity. For example, we want to know whether a meme is viral. If it's been viewed more than 50m times in less than a week, we'd say that it's true that it went viral.\n- To make decisions. For example, if I get an email, the program checks that the email is new and it displays at the top of my inbox. \n\nBecause booleans act as binary opposites, we can think of them in a myriad of ways, like on and off, yes and no, sometimes even 1 and 0. \n\nWhile we use the words `true` and `false` to represent boolean values, it's important to remember that they are different from the strings `'true'` and `'false'`. Depending on the language, the number 1 can also represent a boolean true and 0 can represent false.",
+                    "instructions": "Programmers first were able to illustrate the idea of binary logic through turning on and off electric circuits, where on equaled `true` and off equaled `false`. In fact, the relationship between electricity and logic is the basis for digitization! \n\nFlip the switch to see the scene change from day to night and watch the lights turn on and off. Notice how the variable `LightsOn` stays the same, but it's value changes from `true` to `false`. \n\n",
+                    "_schema": "Narrative"
+                  }
+                ],
+                "tests": {},
+                "filepath": "new/content/courses/en/cf-bop-i/units/cf-bop-i/lessons/datatypes/exercises/boolean.en.yml"
+              },
+              {
+                "node_type": "exercise",
+                "locale": "en",
+                "uuid": "42b6447079322d0f2cc1ec9c223e9a9c",
+                "slug": "datatypes-all-together",
+                "title": "Putting it All Together",
+                "workspace": {
+                  "slug": "datatypes-datatypes-all-together",
+                  "type": "static",
+                  "backend": "workshop"
+                },
+                "instructionsandhints": [],
+                "components": [
+                  {
+                    "files": [
+                      {
+                        "filename": "main.js"
+                      }
+                    ],
+                    "_schema": "PersistentCodeEditor"
+                  },
+                  {
+                    "url": "localhost:8000/",
+                    "_schema": "WebBrowser"
+                  },
+                  {
+                    "content": "So far you've learned about three different data types:\n- numbers\n- strings\n- booleans \n\nLet's put your knowledge to work! \n\nIn the code editor, we've listed three variables, each equal to a different datatype. Try choosing a function and see what it outputs. ",
+                    "instructions": "Now, let's change the values of the variables! Press the run button, then select a function from the dropdown menu and see how it evaluates each value. \n- What happens if you change the value, but keep the data type?\n- What happens if you swap out the data type?",
+                    "_schema": "Narrative"
+                  }
+                ],
+                "tests": {},
+                "filepath": "new/content/courses/en/cf-bop-i/units/cf-bop-i/lessons/datatypes/exercises/datatypes-all-together.en.yml"
+              },
+              {
+                "node_type": "exercise",
+                "locale": "en",
+                "uuid": "655753620b5330c1bcc4e9c6d1838b62",
+                "slug": "review",
+                "title": "Data Types Review",
+                "workspace": {
+                  "slug": "datatypes-datatypes-all-together",
+                  "type": "static",
+                  "backend": "workshop"
+                },
+                "instructionsandhints": [],
+                "components": [
+                  {
+                    "files": [
+                      {
+                        "filename": "sketch.js"
+                      }
+                    ],
+                    "_schema": "PersistentCodeEditor"
+                  },
+                  {
+                    "url": "localhost:8000/",
+                    "_schema": "WebBrowser"
+                  },
+                  {
+                    "content": "Congrats! Now you know the building blocks of most programming languages and should start to have an idea about the types of simple programs that you could write.\n\nIn this lesson, we learned:\n\n- Categorizing information using __data types__ is a way for a computer to distinguish different types of input.\n-  __Primitives__ are the simplest data types and are shared across many programming languages. They include:\n - __Numbers__ \u0026mdash; values that allow us to do calculations and keep count.\n - __Strings__ \u0026mdash; a sequence of characters or symbols often used to denote text.\n - __Booleans__ \u0026mdash; logical values that represent the idea of true or false.",
+                    "_schema": "Narrative"
+                  }
+                ],
+                "tests": {},
+                "filepath": "new/content/courses/en/cf-bop-i/units/cf-bop-i/lessons/datatypes/exercises/review.en.yml"
+              }
+            ]
+          },
+          "youtube_id": null,
+          "thumbnail_url": null,
+          "description": "Learn about data types, the building blocks of programming. ",
+          "published_exercise_ids": [
+            "1143460064be02fdbb453c7eccc85f1e",
+            "f4f8b2338ee67e2ede1a5a79fe6d896c",
+            "4b0f5ae1d55e0b49b98f73c5dbb6d0a1",
+            "934ad81189f3e20104b7352285c4a272",
+            "42b6447079322d0f2cc1ec9c223e9a9c",
+            "655753620b5330c1bcc4e9c6d1838b62"
+          ]
+        },
+        "8ef2970ba934065d373502dab9644018": {
+          "uuid": "8ef2970ba934065d373502dab9644018",
+          "type": "quiz",
+          "slug": "bop-datatypes-quiz",
+          "meta": {
+            "is_free": true
+          },
+          "title": "Datatypes Quiz",
+          "locale": null,
+          "tags": [],
+          "time": 5,
+          "content": {},
+          "youtube_id": null,
+          "thumbnail_url": null,
+          "description": "A quiz on data type concepts. ",
+          "published_exercise_ids": []
+        },
+        "64d6c93ae687afb777f62517164f28b4": {
+          "uuid": "64d6c93ae687afb777f62517164f28b4",
+          "type": "lesson",
+          "slug": "bop-operators",
+          "meta": {
+            "ex_count": 6
+          },
+          "title": "Operators",
+          "locale": null,
+          "tags": [],
+          "time": 52,
+          "content": {
+            "slug": "operators",
+            "title": "Operators",
+            "description": "Learn to build simple programs using operators. ",
+            "exercises": [
+              {
+                "node_type": "exercise",
+                "locale": "en",
+                "uuid": "10f61c8e343a56984273250edc41872e",
+                "slug": "operators-intro",
+                "title": "Introduction",
+                "workspace": {
+                  "slug": "blank-workspace",
+                  "type": "static",
+                  "backend": "workshop"
+                },
+                "instructionsandhints": [],
+                "components": [
+                  {
+                    "url": "https://s3.amazonaws.com/codecademy-content/programs/code-foundations-path/bop-i/operators/intro/index.html",
+                    "_schema": "WebBrowser"
+                  },
+                  {
+                    "content": "In computing, we work with lots of different forms of data. But the real fun comes when we can _do_ something with this data. \n\nIn this lesson, we'll look at how we can write short computer programs using __operators__. \n\nOperators are different symbols that represent an __operation__, such as the plus sign (`+`) as a symbol for addition. Operations enable us to __process__ our data, to transform it into something else. \n\nYou may already be familiar with operators and operations from other contexts. This lesson looks at different ways we can use operators in programming, including:\n\n- Making calculations using **arithmetic** operators.\n- Comparing information using **comparison** operators.\n- Creating logical expressions using **logical** (aka Boolean) operators.\n\n\n\n\n",
+                    "instructions": "We can think of writing a program as similar to following a recipe.\n\nIn this lesson, we'll look at how we can use operators to make a fruit salad. \n\nTo make the salad, we'll use operators to:\n- Calculate the fruit needed\n- Compare the different fruits\n- Determine if we have the right ingredients\n\nRight now, we can only add or take away data points by manually including them or deleting them from our code, sort of like adding and subtracting.\n\nWhen you're ready, move to the next exercise. \n\n\n\n\n\n\n",
+                    "_schema": "Narrative"
+                  }
+                ],
+                "tests": {},
+                "filepath": "new/content/courses/en/cf-bop-i/units/cf-bop-i/lessons/operators/exercises/operators-intro.en.yml"
+              },
+              {
+                "node_type": "exercise",
+                "locale": "en",
+                "uuid": "1ab8329d77a8dce114938eb7c4603355",
+                "slug": "arithmetic",
+                "title": "Using Operators to Make Calculations",
+                "workspace": {
+                  "slug": "blank-workspace",
+                  "type": "static",
+                  "backend": "workshop"
+                },
+                "instructionsandhints": [],
+                "components": [
+                  {
+                    "url": "https://s3.amazonaws.com/codecademy-content/programs/code-foundations-path/bop-i/operators/arithmetic/index.html",
+                    "_schema": "WebBrowser"
+                  },
+                  {
+                    "content": "Think about the last time you needed to perform long division - did you write it out on paper or reach for a calculator? We can actually write computer programs that perform calculations for us. In fact, that was their original purpose! \n\nIf we want to write a program that performs calculations, we need to use __arithmetic operators__. They include addition (`+`), subtraction (`-`), multiplication (`*`), and division (`\\`). \n\n- __Addition__ adds an amount to a number: `2 + 3 = 5`\n- __Subtraction__ takes away an amount from a number: `10 - 3 = 7`\n- __Multiplication__ takes a number and repeats it a specified number of times: `5 * 2 = 10`\n- __Division__ takes a number and divides it by another number: `15 / 3 = 5`\n\nHow does this work in real life? Let's say we need to buy some apples for the fruit salad recipe. The recipe calls for six apples, but we can only find bags of five. If we buy just enough bags for your recipe, how many extra apples will you have? \n\nSince one bag isn't enough, we need to buy two bags with five apples each, which would equal 10. Then, we'd subtract the six apples that we need for our recipe to find our answer: \n```js\napples = 5\nmy_apples = apples * 2 \nanswer = my_apples - 6\n```\nIf we were to print out `answer`, it would equal `4`. \n\nYou may notice that unlike in math class, we put the \"answer\" on the left-hand side of the equals sign, rather than to the right. That's because we're saving the value of our answer to a new variable! So, `apples`, `my_apples`, and `answer` are all variables. ",
+                    "instructions": "Let's calculate how many apples we need for our fruit salad! \n\nThe recipe says that for you will need 4 apples, which will serve 2-4 people. But you're making a fruit salad for a party, so you need to double the recipe. Use the buttons to calculate the correct amount of apples to use in the fruit salad. ",
+                    "_schema": "Narrative"
+                  }
+                ],
+                "tests": {},
+                "filepath": "new/content/courses/en/cf-bop-i/units/cf-bop-i/lessons/operators/exercises/arithmetic.en.yml"
+              },
+              {
+                "node_type": "exercise",
+                "locale": "en",
+                "uuid": "c7d291beea3d4bed6dee5d1c6b9a5549",
+                "slug": "comparison",
+                "title": "Using Operators to Make Comparisons",
+                "workspace": {
+                  "slug": "blank-workspace",
+                  "type": "static",
+                  "backend": "workshop"
+                },
+                "instructionsandhints": [],
+                "components": [
+                  {
+                    "url": "https://s3.amazonaws.com/codecademy-content/programs/code-foundations-path/bop-i/operators/comparison/index.html",
+                    "_schema": "WebBrowser"
+                  },
+                  {
+                    "content": "When writing a program, we often need to check if a value is correct or compare two values. \n\n**Comparison operators** allow us to compare values and evaluate their relationship. Rather than evaluating to an integer, they evaluate to `true` or `false`, AKA boolean values. Expressions that evaluate to boolean values are known as __boolean expressions__. \n\nComparison operators include:\n-  Less than `\u003c` \u0026mdash; value to the left is **less than** the value to the right: `2 \u003c 6`\n- Greater than ` \u003e` \u0026mdash; value to the left is **more than** the value to the right: `14 \u003e 5` \n- Equals `==` \u0026mdash; value to the left is **equal to** the value to the right: `3 == 3`\n\nNote: we use a double-equal sign to show that we're checking a value, rather than setting it equal to something, like we would with a variable. Some languages even use a triple-equal sign `===` to super-triple-check! \n\nThere are two main instances where we use comparison operators:\n\n**If we have an unknown quantity.** What if we knew that we needed a half pound of strawberries, but we didn't know the weight of each strawberry? We could weigh the strawberries and see if the total weight equals a half pound.\n\n```js\nstrawberry_weight = ?\nis (strawberry_weight == .5lb)? =\u003e true\n```\n\n**If we need to compare two known values.** If we're making a salad that's super citrusy, then we need to make sure we have more oranges than bananas. If that's false, I'll have to add more oranges. \n\n```js\napples = 5\noranges = 3\n\nis (oranges \u003e apples)? =\u003e false\n```",
+                    "instructions": "For once, let's compare apples and oranges. \n\nOur fruit salad recipe gives us a couple options for apple to orange ratios. \n\n- If we want a balanced salad, we should have four apples and four oranges. \n\n- If we want a more citrusy salad, we should have five oranges and three apples. \n\n- If we want a less citrusy salad, we should have four apples and two oranges.\n\n\nFollow the provided recipes and select the correct comparison operator for each one.\n\nWhy is it helpful to be able to check or compare different values? \n",
+                    "_schema": "Narrative"
+                  }
+                ],
+                "tests": {},
+                "filepath": "new/content/courses/en/cf-bop-i/units/cf-bop-i/lessons/operators/exercises/comparison.en.yml"
+              },
+              {
+                "node_type": "exercise",
+                "locale": "en",
+                "uuid": "4207571fa70e28a5849fcd76b9a47392",
+                "slug": "logic",
+                "title": "Using Operators to Get Different Outcomes",
+                "workspace": {
+                  "slug": "blank-workspace",
+                  "type": "static",
+                  "backend": "workshop"
+                },
+                "instructionsandhints": [],
+                "components": [
+                  {
+                    "url": "https://s3.amazonaws.com/codecademy-content/programs/code-foundations-path/bop-i/operators/logical/index.html",
+                    "_schema": "WebBrowser"
+                  },
+                  {
+                    "content": "As we saw, comparison operators allow us to examine the relationship of two values. But what if we're looking at more than two values? \n\n__Logical operators__, also known as boolean operators, evaluate multiple boolean expressions. Rather than determining if one relationship is true or false, it looks at several relationships by connecting them with logical operators and then determining the logic/validity of the overall expression.\n\nLogical operators include:\n- __AND__ \u0026mdash; both expressions evaluate to true, so the final result is true:\n  - `((4 \u003e 1) AND (2 \u003c 7)) ` is the same as `(TRUE AND TRUE)`. Evaluates to true. \n- __OR__ \u0026mdash; one of the expressions evaluatse to true, so the final result is true: \n  - `((8 \u003e 6) OR (3 \u003e 6)) ` is the same as `(TRUE OR FALSE)`. Evaluates to true. \n- __NOT__ \u0026mdash; an expression, no matter its logical value, evaluates to the opposite: \n  - `NOT (1 \u003c 3)` evaluates to `NOT (TRUE)`. Evaluates to false.\n\nThe examples given are only a few of the outcomes that you can reach using logical operators. Using logical operators and boolean expressions enable us to handle different scenarios in our program. For example, what if we only had apples in our fridge? If a recipe asked for either apples OR pears, we could still make the recipe. But if a recipe requires both apples AND pears, we wouldn't be able to make it. ",
+                    "instructions": "Take a look at these following recipes and determine if you can make them with the fruit on hand:\n- You have a fruit salad recipe that calls for seven apples and four oranges.\n- You have a juice recipe that asks for eight apples, but you could also just use eight oranges.\n- You have a recipe that is for applesauce.\n\nHow do boolean operators allow us to make our programs more flexible or more strict? Can we start to see ways we can write programs that can handle different scenarios?",
+                    "_schema": "Narrative"
+                  }
+                ],
+                "tests": {},
+                "filepath": "new/content/courses/en/cf-bop-i/units/cf-bop-i/lessons/operators/exercises/logic.en.yml"
+              },
+              {
+                "node_type": "exercise",
+                "locale": "en",
+                "uuid": "c2fb33f58c8ec5a00997337cdd098d4f",
+                "slug": "operators-all-together",
+                "title": "Putting it All Together",
+                "workspace": {
+                  "slug": "operators-operators-all-together",
+                  "type": "static",
+                  "backend": "workshop"
+                },
+                "instructionsandhints": [],
+                "components": [
+                  {
+                    "files": [
+                      {
+                        "filename": "main.js"
+                      }
+                    ],
+                    "_schema": "PersistentCodeEditor"
+                  },
+                  {
+                    "url": "localhost:8000/",
+                    "_schema": "WebBrowser"
+                  },
+                  {
+                    "content": "Now that we know a bit about different operators, let's try writing our own expressions! \n\nAs we've seen, we can use operators to change something's value, add other things to our program, to take them away, or to perform calculations. We can also use operators to compare statements or determine whether they are true or false. \n\nOne important thing about operators when you program is that they may look different from language to language. That's because different programming languages have different _syntax_, or rules for how they are written. \n\nFor the purpose of this exercise, you should know that:\n- the operator **OR** is represented as two pipes `||` \n- the operator **AND** is represented as two ampersands `\u0026\u0026`\n- the operator **NOT** is represented as an exclamation point `!`  ",
+                    "instructions": "Let's use the operators that we've learned to add different fruits to the screen and determine their relationships. \n\nFirst, create a variable named `orange` and set it equal to 4. Run the code and see how many oranges appear on the screen. \n\nNow, **decrease** the number of oranges from 4 to 2. Save the result to the orange variable again. \n\nNext, write a statement that represents the relationship between the apples and oranges. \n\n__Hint:__ are there more apples or are there more oranges?\n\nFinally, write a statement where `apple` is equal to the true number of apples and `orange` is equal to a false number of oranges, but there resulting answer is still true. \n\n__Hint:__ Which operator when used in a statement evaluates to true when one part of it is true and one part of it is false?",
+                    "_schema": "Narrative"
+                  }
+                ],
+                "tests": {},
+                "filepath": "new/content/courses/en/cf-bop-i/units/cf-bop-i/lessons/operators/exercises/operators-all-together.en.yml"
+              },
+              {
+                "node_type": "exercise",
+                "locale": "en",
+                "uuid": "cfd4ab589211349de2c5db56f7c85a75",
+                "slug": "review-ii",
+                "title": "Review",
+                "workspace": {
+                  "slug": "blank-workspace",
+                  "type": "static",
+                  "backend": "workshop"
+                },
+                "instructionsandhints": [],
+                "components": [
+                  {
+                    "url": "localhost:8000/",
+                    "_schema": "WebBrowser"
+                  },
+                  {
+                    "files": [],
+                    "_schema": "PersistentCodeEditor"
+                  },
+                  {
+                    "content": "Congrats! Now you know about different operators [and how they can be used to build simple programs].\n\nIn this lesson, we learned:\n\n- __Operators__ are symbols that represent different ways of modifying, comparing, and evaluating information.\n-  __Arithmetic operators__ are used to make calculations.\n- __Comparison operators__ determine the relationship b, between two values, which results in a boolean.\n-  __Logical operators__ determine the logical state of multiple boolean values or expressions, which results in another boolean. \n\nNow that you know the building blocks of operators, how can you further combine them to write programs?",
+                    "_schema": "Narrative"
+                  }
+                ],
+                "tests": {},
+                "filepath": "new/content/courses/en/cf-bop-i/units/cf-bop-i/lessons/operators/exercises/review-ii.en.yml"
+              }
+            ]
+          },
+          "youtube_id": null,
+          "thumbnail_url": null,
+          "description": "Learn to build simple programs using operators. ",
+          "published_exercise_ids": [
+            "10f61c8e343a56984273250edc41872e",
+            "1ab8329d77a8dce114938eb7c4603355",
+            "c7d291beea3d4bed6dee5d1c6b9a5549",
+            "4207571fa70e28a5849fcd76b9a47392",
+            "c2fb33f58c8ec5a00997337cdd098d4f",
+            "cfd4ab589211349de2c5db56f7c85a75"
+          ]
+        },
+        "ea796318909f92a4a006ea96606ce0f0": {
+          "uuid": "ea796318909f92a4a006ea96606ce0f0",
+          "type": "quiz",
+          "slug": "bop-operators-quiz",
+          "meta": {
+            "is_free": true
+          },
+          "title": "Operators Quiz",
+          "locale": null,
+          "tags": [],
+          "time": 5,
+          "content": {},
+          "youtube_id": null,
+          "thumbnail_url": null,
+          "description": "A quiz about operator concepts. ",
+          "published_exercise_ids": []
+        },
+        "f6e76be70aaa64eb05b610d342209f06": {
+          "uuid": "f6e76be70aaa64eb05b610d342209f06",
+          "type": "lesson",
+          "slug": "bop-functions",
+          "meta": {
+            "ex_count": 6
+          },
+          "title": "Functions",
+          "locale": null,
+          "tags": [],
+          "time": 38,
+          "content": {
+            "slug": "functions",
+            "title": "Functions",
+            "description": "Learn about functions: what they are, why programmers use them, and where they use them.",
+            "exercises": [
+              {
+                "node_type": "exercise",
+                "locale": "en",
+                "uuid": "87f6b686a130ebad6823503179be9ee6",
+                "slug": "intro",
+                "title": "Functions",
+                "workspace": {
+                  "slug": "bop-ii-functions-intro-ii",
+                  "type": "static",
+                  "backend": "workshop"
+                },
+                "instructionsandhints": [],
+                "components": [
+                  {
+                    "url": "localhost:8000/",
+                    "_schema": "WebBrowser"
+                  },
+                  {
+                    "content": "This lesson requires you to know the basics of hamburger-making:\n* Place the bread down\n* Add the burger patty\n* Add the pickles\n* Place the bread on top\n\nWhat if you had to say each step every time you ordered a hamburger? It's tedious. It takes a long time. (How do you fit that on a menu?) And it risks making mistakes.\n\nIn this lesson you will learn a solution to that problem: functions. You'll learn how and why they are used in programming and be able to communicate their benefits to other programmers! \n\nFunctions are used throughout programming – in fact some styles of programming \u003ca href=\"https://en.wikipedia.org/wiki/Functional_programming\" target=\"_blank\" rel=\"noopener noreferrer\"\u003erely completely on functions\u003c/a\u003e. Knowing this information will be useful for anywhere your programming path takes you.",
+                    "instructions": "Build hamburgers without a function: make three hamburgers by clicking on each instruction.\n\nHint: Add bread – Add burger patty – Add pickles – Add bread.",
+                    "_schema": "Narrative"
+                  }
+                ],
+                "tests": {},
+                "filepath": "new/content/courses/en/cf-bop-ii/units/cf-bop-ii/lessons/functions/exercises/intro.en.yml"
+              },
+              {
+                "node_type": "exercise",
+                "locale": "en",
+                "uuid": "64e011c969913ff56a8bb26f1c4a0406",
+                "slug": "reusability",
+                "title": "Functions for Reusability",
+                "workspace": {
+                  "slug": "bop-ii-functions-reusability-ii",
+                  "type": "static",
+                  "backend": "workshop"
+                },
+                "instructionsandhints": [],
+                "components": [
+                  {
+                    "url": "localhost:8000/",
+                    "_schema": "WebBrowser"
+                  },
+                  {
+                    "content": "Instead of giving those instructions for every hamburger, we can group and name them as a single _function:_\n```\nfunction makeHamburger() {\n  Add bread\n  Add burger patty\n  Add pickles\n  Add bread\n}\n```\n\nA function is a sequence of instructions that performs a specific task, packaged as a unit.\n\nWe've _defined_ the function by giving it instructions and a name, but how do we use it? We use a function by _calling_ it. When we call `makeHamburger()` we expect all of its steps to be executed.\n",
+                    "instructions": "Build hamburgers with a function: In this example you can call the function by clicking the button `makeHamburger()`. Make three hamburgers by calling the function three times.",
+                    "_schema": "Narrative"
+                  }
+                ],
+                "tests": {},
+                "filepath": "new/content/courses/en/cf-bop-ii/units/cf-bop-ii/lessons/functions/exercises/reusability.en.yml"
+              },
+              {
+                "node_type": "exercise",
+                "locale": "en",
+                "uuid": "8fc37fd74e3da2a2a6b9fb4e8628a8ee",
+                "slug": "flexibility",
+                "title": "Functions for Flexibility",
+                "workspace": {
+                  "slug": "bop-ii-functions-flexibility-ii",
+                  "type": "static",
+                  "backend": "workshop"
+                },
+                "instructionsandhints": [],
+                "components": [
+                  {
+                    "url": "localhost:8000/",
+                    "_schema": "WebBrowser"
+                  },
+                  {
+                    "content": "Not everyone wants to eat hamburgers. \n\nWe could write a new function for each new sandwich type, but that takes a lot of work and risks making mistakes. \n\nInstead we'll generalize the hamburger function to a sandwich function. This new sandwich function will still make a bread-topping-topping-bread combination, but the toppings may change based on inputs to the function:\n\n```\nfunction makeSandwich(topping1, topping2) {\n  Add bread\n  Add topping1\n  Add topping2\n  Add bread\n}\n```\n\nWe've renamed the function `makeSandwich()` and given it two inputs, or _parameters_. Each time we call the function, we'll give actual values for each input, called _arguments_.\n\nFor example, we make a ham-and-cheese sandwich with `makeSandwich(\"ham\", \"cheese\")`. We call the function with the arguments \"ham\" and \"cheese\". Those will be the values for the `topping1` and `topping2` parameters. \n\nInstead of writing a different function for each type of sandwich, we have one function that can make them all!",
+                    "instructions": "Call the `makeSandwich` function with the arguments `\"ham\"` and `\"cheese\"`.\n\nNotice how the instructions change with different inputs.",
+                    "_schema": "Narrative"
+                  }
+                ],
+                "tests": {},
+                "filepath": "new/content/courses/en/cf-bop-ii/units/cf-bop-ii/lessons/functions/exercises/flexibility.en.yml"
+              },
+              {
+                "node_type": "exercise",
+                "locale": "en",
+                "uuid": "7851993d4029824e62a17f936aed6afa",
+                "slug": "organization",
+                "title": "Functions for organization",
+                "workspace": {
+                  "slug": "bop-ii-functions-organization-ii",
+                  "type": "static",
+                  "backend": "workshop"
+                },
+                "instructionsandhints": [],
+                "components": [
+                  {
+                    "url": "localhost:8000/",
+                    "_schema": "WebBrowser"
+                  },
+                  {
+                    "content": "A sandwich wouldn't be complete without fries and dessert!\n\nHere are the instructions to make the complete meal:\n\n* Add bread, Add burger patty, Add fried potatoes, Add pickles, Add bread, Add salt, Add chocolate scoop, Add ketchup, Add vanilla scoop, Add strawberry scoop\n\nOof. All of the instructions are there, but they're confusing and hard to edit. If you decide to ask for a fruit salad instead of fries, you would have to find all of the fries-related instructions and replace every line. \n\nTo make it easier to read, we'll separate and organize our instructions:\n\n* Add bread, Add burger patty, Add pickles, Add bread\n\n* Add fried potatoes, Add salt, Add ketchup\n\n* Add chocolate scoop, Add vanilla scoop, Add strawberry scoop \n\nBetter... Now let's group these instructions into three functions:\n\n* makeSandwich()\n* makeSomeFries()\n* makeIceCream()\n\n\nWe can easily substitute one line, `makeSomeFries()`, for a different function, like `makeFruitSalad()`. And if there's an error, we know where to look for the recipe for each part of the meal.\n\nThe new instructions are starting to look like a program! By using functions, we made it is easier to read, reusable, and _modular:_ each set of related instructions (sandwich, fries, dessert) is grouped into its own function, which we can easily add, remove, and swap to make a diversity of meals.\n",
+                    "instructions": "_\"I'd like a sandwich, fries, and triple ice cream scoop, please!\"_\n\n1. Make this lunch WITHOUT functions\n2. Make this lunch again WITH functions\n\nQuestions:\nWhich approach was easier? Which approach was less prone to error?\n\n---\n\n_\"I'd like 3 sandwiches, 2 fries, and 2 triple ice cream scoop, please!\"_\n\n1. Click \"reset\"\n2. Make this lunch WITHOUT the functions\n3. Make this lunch WITH functions\n\nQuestions: Which approach was easier this time?\n",
+                    "_schema": "Narrative"
+                  }
+                ],
+                "tests": {},
+                "filepath": "new/content/courses/en/cf-bop-ii/units/cf-bop-ii/lessons/functions/exercises/organization.en.yml"
+              },
+              {
+                "node_type": "exercise",
+                "locale": "en",
+                "uuid": "860b87cc9b036db402a170bb51c9b2d2",
+                "slug": "all-together",
+                "title": "Putting It All Together",
+                "workspace": {
+                  "slug": "bop-ii-functions-all-together",
+                  "type": "static",
+                  "backend": "workshop"
+                },
+                "instructionsandhints": [],
+                "components": [
+                  {
+                    "files": [
+                      {
+                        "filename": "main.js"
+                      }
+                    ],
+                    "_schema": "PersistentCodeEditor"
+                  },
+                  {
+                    "url": "localhost:8000/",
+                    "_schema": "WebBrowser"
+                  },
+                  {
+                    "content": "Time to get coding! It's okay if you don't recognize all the symbols in this code: we'll walk you through the parts you need to know.\n\nThe `makeSandwich()` function is provided in **main.js**. It is defined with two parameters, `topping1` and `topping2`. By reading the instructions inside the function, we can see that it is constructing a string of words that represent the ingredients in the sandwich. For example, the first ingredient is `'bread'`.\n\nBelow the function definition, the function is called. When called, the function outputs a string representing a custom sandwich. We say that the function _returns_ a string. The value of that string is stored in the variable `result`.\n\nWe've set up the workspace so that the value of `result` is translated to ingredients drawn in the app to the far right. With the below code...\n```js\nresult = makeSandwich('burger patty', 'pickles');\n```\n...the app will interpret `result` as a bread-patty-pickles-bread sandwich and draw one to the screen.",
+                    "instructions": "Make a sandwich of your own by calling the function with different arguments: \n\n* Change `'burger patty'` and `'pickles'` to `'peanut butter'` and `'jelly'`, then\n* Run the code\n\nCongrats, you're coding with JavaScript! Feel free to try other toppings you've seen throughout this lesson.\n",
+                    "_schema": "Narrative"
+                  }
+                ],
+                "tests": {},
+                "filepath": "new/content/courses/en/cf-bop-ii/units/cf-bop-ii/lessons/functions/exercises/all-together.en.yml"
+              },
+              {
+                "node_type": "exercise",
+                "locale": "en",
+                "uuid": "5c813ca7fd977fe3fefcf0147cb1e3d3",
+                "slug": "review",
+                "title": "Review",
+                "workspace": {
+                  "slug": "bop-ii-functions-organization-ii",
+                  "type": "static",
+                  "backend": "workshop"
+                },
+                "instructionsandhints": [],
+                "components": [
+                  {
+                    "url": "localhost:8000/",
+                    "_schema": "WebBrowser"
+                  },
+                  {
+                    "content": "Well done! Functions are a fundamental concept in programming, and learning the basics will serve you wherever your path leads, regardless of language or domain. To review:\n* A _function_ is a sequence of instructions that performs a specific task, packaged as a unit. \n* When we _define_ a function, we specify the instructions, inputs, and name of the function. \n* When we _call_ a function, all of its instructions are executed.\n* Functions can be executed many times, making its instructions _reusable_.\n* Functions can have _parameters_, which accept input values, making its instructions _flexible_.\n* Functions organize a program into distinct units, making interchanging and editing them easier. This makes your entire program organized and _modular_.\n\n\n\n",
+                    "instructions": "Make sure you're comfortable with the above concepts before moving on!",
+                    "_schema": "Narrative"
+                  }
+                ],
+                "tests": {},
+                "filepath": "new/content/courses/en/cf-bop-ii/units/cf-bop-ii/lessons/functions/exercises/review.en.yml"
+              }
+            ]
+          },
+          "youtube_id": null,
+          "thumbnail_url": null,
+          "description": "Learn about functions: what they are, why programmers use them, and where they use them.",
+          "published_exercise_ids": [
+            "87f6b686a130ebad6823503179be9ee6",
+            "64e011c969913ff56a8bb26f1c4a0406",
+            "8fc37fd74e3da2a2a6b9fb4e8628a8ee",
+            "7851993d4029824e62a17f936aed6afa",
+            "860b87cc9b036db402a170bb51c9b2d2",
+            "5c813ca7fd977fe3fefcf0147cb1e3d3"
+          ]
+        },
+        "b27c687f1d15bd214de9bc4f50689afc": {
+          "uuid": "b27c687f1d15bd214de9bc4f50689afc",
+          "type": "quiz",
+          "slug": "bop-functions-quiz",
+          "meta": {
+            "is_free": true
+          },
+          "title": "Functions Quiz",
+          "locale": null,
+          "tags": [],
+          "time": 5,
+          "content": {},
+          "youtube_id": null,
+          "thumbnail_url": null,
+          "description": "Check your understanding of functions.",
+          "published_exercise_ids": []
+        },
+        "f65c18f43fcf9679475799730dfa0b62": {
+          "uuid": "f65c18f43fcf9679475799730dfa0b62",
+          "type": "lesson",
+          "slug": "bop-control-flow",
+          "meta": {
+            "ex_count": 6
+          },
+          "title": "Control Flow",
+          "locale": null,
+          "tags": [],
+          "time": 41,
+          "content": {
+            "slug": "control-flow",
+            "title": "Control Flow",
+            "description": "Learn about control flow: what it is, why programmers use it, and where they use it.",
+            "exercises": [
+              {
+                "node_type": "exercise",
+                "locale": "en",
+                "uuid": "e144866f1009fd2af98cc7f0a9ad6a27",
+                "slug": "control-intro",
+                "title": "Control Flow",
+                "workspace": {
+                  "slug": "bop-ii-control-flow-basic-ii",
+                  "type": "static",
+                  "backend": "workshop"
+                },
+                "instructionsandhints": [],
+                "components": [
+                  {
+                    "url": "localhost:8000/",
+                    "_schema": "WebBrowser"
+                  },
+                  {
+                    "content": "How do computers make decisions? Here are a few examples:\n\n* Web surfing: Open the browser, load the text, load the images.\n* Social media: If the user's profile is private, hide their posts. Otherwise, make them visible.\n* Electronic music: Repeat a note four times a measure.\n* Shopping: Collect shipping and contact information. Reject a purchase if either is incorrect.\n\nEach of these _programs_ is a set of instructions, executed in a certain order. This order, called _control flow_, is just as important as the instructions themselves.\n\nProgrammers use _control structures_ to alter _control flow_. Control structures include conditionals – \"do these instructions if Z is true\", loops – \"do these instructions X many times\",  and exceptions – \"do instruction set A, but if an error occurs switch to instruction set B\". Programmers use these structures in their code to tell a computer which instructions (or in which order) to execute.\n\nIn this lesson you will learn the fundamental concepts of control flow and three essential control structures. By the end of the lesson you should be able to: \n* Define control flow\n* Explain the difference between conditional, loop, and exception control structures\n* Give examples for each \n",
+                    "instructions": "There are five steps in this program, which loads a basic website. Execute the steps in the correct order by clicking each one.\n\nIn what order are the instructions executed?",
+                    "_schema": "Narrative"
+                  }
+                ],
+                "tests": {},
+                "filepath": "new/content/courses/en/cf-bop-ii/units/cf-bop-ii/lessons/control-flow/exercises/control-intro.en.yml"
+              },
+              {
+                "node_type": "exercise",
+                "locale": "en",
+                "uuid": "e4a0af0962eb5b99500cb9870f656b9b",
+                "slug": "conditional",
+                "title": "Conditional",
+                "workspace": {
+                  "slug": "bop-ii-control-flow-conditional-ii",
+                  "type": "static",
+                  "backend": "workshop"
+                },
+                "instructionsandhints": [],
+                "components": [
+                  {
+                    "url": "localhost:8000/",
+                    "_schema": "WebBrowser"
+                  },
+                  {
+                    "content": "_If the user's profile is private, hide their posts. Otherwise, make them visible._\n\nComputers can run instructions on their own, leaving us to work on more interesting and creative problems. But computers can't make decisions on their own. Programmers can give them multiple sets of instructions and describe the right conditions in which to use each set. They can describe a structure like the quoted program above: \"if X, then do instruction set 1. Otherwise do instruction set 2.\" This structure is called a _conditional_ control structure because the computer's instructions depend on some _condition(s)_.\n\nIn our social media example, all the instructions are shown in the diagram, but only some of them will be executed each time. Here they are in text form:\n\n1. Check profile privacy\n2. Hide the post\n3. Show the post\n\nWhen is step 2 executed and when is 3 executed? The answer is: it depends. \nThe control flow is 1-2 if the profile is private and 1-3 if the profile is public. The condition is the privacy setting on the profile.\n\nConditional control structures, or just conditionals, allow programs to do different things in different scenarios. As you can see, they follow a logic similar to how humans think, making it easy to write clear code while still handling complex processes.\n",
+                    "instructions": "Select \"Make Profile Public\", then click through each step of the conditional structure.\n\nSelect \"Make Profile Private\", then click through each step of the conditional structure. \n\nWhat's the control flow for each?",
+                    "_schema": "Narrative"
+                  }
+                ],
+                "tests": {},
+                "filepath": "new/content/courses/en/cf-bop-ii/units/cf-bop-ii/lessons/control-flow/exercises/conditional.en.yml"
+              },
+              {
+                "node_type": "exercise",
+                "locale": "en",
+                "uuid": "9309a2f43336ca4a6f1e4355ee57285e",
+                "slug": "loop",
+                "title": "Loop",
+                "workspace": {
+                  "slug": "bop-ii-control-flow-loop-ii",
+                  "type": "static",
+                  "backend": "workshop"
+                },
+                "instructionsandhints": [],
+                "components": [
+                  {
+                    "url": "localhost:8000/",
+                    "_schema": "WebBrowser"
+                  },
+                  {
+                    "content": "_Repeat a sound four times a measure._\n\nComputers are good at repetitive tasks: they exactly follow instructions and perform them quickly. But if the programmer has to write the same instructions for every repetition, they waste time and increase the chances of a mistake. \n\nIn our example, instead of literally writing \"play a sound, play a sound, play a sound, play a sound\", programmers can use a _loop_ structure. A loop is a sequence of instructions which is specified once but which may be carried out several times in a row. In this case there is one instruction (play a sound) and it should be carried out 4 times.\n\nLoop structures can also specify that the instructions are repeated until a certain condition is met. For example, \"Repeat a sound until you are booed off stage\".\n",
+                    "instructions": "Click the shapes in the diagram to move through each step of the loop structure. \n\nWhat is the condition or count that must be met to stop looping?",
+                    "_schema": "Narrative"
+                  }
+                ],
+                "tests": {},
+                "filepath": "new/content/courses/en/cf-bop-ii/units/cf-bop-ii/lessons/control-flow/exercises/loop.en.yml"
+              },
+              {
+                "node_type": "exercise",
+                "locale": "en",
+                "uuid": "a7ca9a068b0ace7cac94d246460f3644",
+                "slug": "exception",
+                "title": "Exception",
+                "workspace": {
+                  "slug": "bop-ii-control-flow-exception-ii",
+                  "type": "static",
+                  "backend": "workshop"
+                },
+                "instructionsandhints": [],
+                "components": [
+                  {
+                    "url": "localhost:8000/",
+                    "_schema": "WebBrowser"
+                  },
+                  {
+                    "content": "_Collect shipping and email address. Reject a purchase if either is incorrect._\n\nErrors, or exceptions, happen all the time in programming. You can't escape them. But you can handle them gracefully. \n\nIn exception handling, two sets of instructions are defined. The first set is executed, and if an exception occurs, the first set is stopped and the second set of instructions is executed.\n\nIn this example,\n* the first set is \"collect shipping address\", \"collect email address\"\n* the second set is \"reject the purchase\"\n\nIf any errors occur in executing the first set – maybe the address is incorrectly formatted, or fake – it is stopped and the the second set is executed.\n\nThese statements are useful if you know an exception may occur in a set of instructions but you don't know in which one, or you expect the same exception might occur in multiple, sequential instructions.\n",
+                    "instructions": "Set the shipping and contact information, then click through the exception structure. \n\nWhat happens when you select a fake address and a real email?\n\nWhat happens when you select a real address and a fake email?",
+                    "_schema": "Narrative"
+                  }
+                ],
+                "tests": {},
+                "filepath": "new/content/courses/en/cf-bop-ii/units/cf-bop-ii/lessons/control-flow/exercises/exception.en.yml"
+              },
+              {
+                "node_type": "exercise",
+                "locale": "en",
+                "uuid": "aa2c6d755fb6f2746a73199abb202356",
+                "slug": "control-all-together",
+                "title": "Putting It All Together",
+                "workspace": {
+                  "slug": "bop-ii-control-flow-all-together",
+                  "type": "static",
+                  "backend": "workshop"
+                },
+                "instructionsandhints": [],
+                "components": [
+                  {
+                    "files": [
+                      {
+                        "filename": "main.js"
+                      }
+                    ],
+                    "navigator_disabled": true,
+                    "_schema": "PersistentCodeEditor"
+                  },
+                  {
+                    "url": "localhost:8000/",
+                    "_schema": "WebBrowser"
+                  },
+                  {
+                    "content": "Let's recreate the _conditional_ control structure using JavaScript! (The one about social media posts, remember?)\n\n![Diagram of conditional control structure](https://s3.amazonaws.com/codecademy-content/programs/code-foundations-path/bop-ii/conditional-control-flow-4.png \"Conditional Control Structure\")\n\nThe control flow shown above is written as a _conditional_ control structure in **main.js**. It looks something like this:\n```js\nif (condition) {\n  DO SOMETHING\n} else {\n  DO SOMETHING DIFFERENT\n}\n```\nIf the `condition` evaluates to `true`, the computer will execute the body of that statement. In this case, it's `DO SOMETHING`.\n\nIf the `condition` is `false`, the computer will execute the body of the `else` statement. In this case, it's `DO SOMETHING DIFFERENT`.\n\nLet's adapt this general template to our example:\n1. The `condition` is true when the privacy mode is set to `\"public\"`. This is already written for you.\n2. You'll replace `DO SOMETHING` with a JavaScript function: `showDetails()`.\n3. You'll replace `DO SOMETHING DIFFERENT` with another function: `hideDetails()`.\n\nOnce you've replaced both bodies, run the code. You should see the post shown. Switch the privacy mode in the dropdown menu to check that both conditions work!\n",
+                    "instructions": "Complete the control structure by calling the functions:\n```js\nshowDetails();\n```\nand\n```js\nhideDetails();\n```\n\nIf done correctly, the content of the post should be visible when you choose \"Make Profile Public\" in the dropdown, and the content of the post should be hidden when you choose \"Make Profile Private\".",
+                    "_schema": "Narrative"
+                  }
+                ],
+                "tests": {},
+                "filepath": "new/content/courses/en/cf-bop-ii/units/cf-bop-ii/lessons/control-flow/exercises/control-all-together.en.yml"
+              },
+              {
+                "node_type": "exercise",
+                "locale": "en",
+                "uuid": "e8e23ada5594ca28085fbfe04f72176e",
+                "slug": "control-review",
+                "title": "Review",
+                "workspace": {
+                  "slug": "bop-ii-control-flow-loop-ii",
+                  "type": "static",
+                  "backend": "workshop"
+                },
+                "instructionsandhints": [],
+                "components": [
+                  {
+                    "url": "localhost:8000/",
+                    "_schema": "WebBrowser"
+                  },
+                  {
+                    "content": "Well done! Control flow is a fundamental concept in programming, and learning the basics will serve you wherever your path leads, regardless of language or domain. In review:\n\n- _Control flow_ is the order in which instructions are executed.\n- _Control structures_ alter control flow in a program. You learned three structures, each suited for a different scenario:\n  - _Conditional:_ \"if some condition is met, then do X. Otherwise, do Y\".\n  - _Loop:_ \"do something Z number of times\" or \"do something repeatedly until some condition is met\".\n  - _Exception:_ \"do steps A, B, C. If an error occurs, stop, and do steps J, K, L\".",
+                    "instructions": "Make sure you're comfortable with the above concepts before moving on!",
+                    "_schema": "Narrative"
+                  }
+                ],
+                "tests": {},
+                "filepath": "new/content/courses/en/cf-bop-ii/units/cf-bop-ii/lessons/control-flow/exercises/control-review.en.yml"
+              }
+            ]
+          },
+          "youtube_id": null,
+          "thumbnail_url": null,
+          "description": "Learn about control flow: what it is, why programmers use it, and where they use it.",
+          "published_exercise_ids": [
+            "e144866f1009fd2af98cc7f0a9ad6a27",
+            "e4a0af0962eb5b99500cb9870f656b9b",
+            "9309a2f43336ca4a6f1e4355ee57285e",
+            "a7ca9a068b0ace7cac94d246460f3644",
+            "aa2c6d755fb6f2746a73199abb202356",
+            "e8e23ada5594ca28085fbfe04f72176e"
+          ]
+        },
+        "98aebd539f67dbf7fee9c7c3a64ff0db": {
+          "uuid": "98aebd539f67dbf7fee9c7c3a64ff0db",
+          "type": "quiz",
+          "slug": "bop-control-flow-quiz",
+          "meta": {
+            "is_free": true
+          },
+          "title": "Control Flow Quiz",
+          "locale": null,
+          "tags": [],
+          "time": 5,
+          "content": {},
+          "youtube_id": null,
+          "thumbnail_url": null,
+          "description": "Check your understanding of control flow.\n",
+          "published_exercise_ids": []
+        },
+        "29a826f2461d0aac13ec2ae88d69e94f": {
+          "uuid": "29a826f2461d0aac13ec2ae88d69e94f",
+          "type": "lesson",
+          "slug": "bop-lists",
+          "meta": null,
+          "title": "Lists",
+          "locale": null,
+          "tags": [],
+          "time": 15,
+          "content": null,
+          "youtube_id": null,
+          "thumbnail_url": null,
+          "description": "Learn how to use the the list data type to store and edit ordered data.",
+          "published_exercise_ids": [
+            "ea5497981a0cc8399635d7683c8eafe2",
+            "218f1f9299543dedd600798679ecfaa4",
+            "a7e9d1bc81d296960ca72faf4c0abb90",
+            "1ceca64461ee28438af9cfc7216ff396",
+            "c24890ee3be3d3893598d3397535f1f7",
+            "0c533c422dbf6bdab1079ab6797c82c2"
+          ]
+        },
+        "513c831a98675ba8acb0b4f879d2d165": {
+          "uuid": "513c831a98675ba8acb0b4f879d2d165",
+          "type": "quiz",
+          "slug": "bop-lists-quiz",
+          "meta": {
+            "is_free": true
+          },
+          "title": "Lists Quiz",
+          "locale": null,
+          "tags": [],
+          "time": 5,
+          "content": {},
+          "youtube_id": null,
+          "thumbnail_url": null,
+          "description": "Check your understanding of lists.",
+          "published_exercise_ids": []
+        },
+        "bbd7ad499d74d3b1ecfeb87e4afd403e": {
+          "uuid": "bbd7ad499d74d3b1ecfeb87e4afd403e",
+          "type": "lesson",
+          "slug": "bop-loops",
+          "meta": null,
+          "title": "Loops",
+          "locale": null,
+          "tags": [],
+          "time": 30,
+          "content": null,
+          "youtube_id": null,
+          "thumbnail_url": null,
+          "description": "Learn about loops: what they are, why programmers use them, and where they use them.\n",
+          "published_exercise_ids": [
+            "9fe06f94a733d74980636c947e298c32",
+            "6430071a05524856bb5e20583c5b91d1",
+            "8574223ae8d290b3b3f7cff665a507c9",
+            "bccfd14305d2363b315017a0e63bb503",
+            "e4c057cf2f39b04ce8712b3900782204",
+            "0da2ca732ff110a8795723ea1ad31d20"
+          ]
+        },
+        "96ed8f1f48f7d0575de233fb8cdf6423": {
+          "uuid": "96ed8f1f48f7d0575de233fb8cdf6423",
+          "type": "quiz",
+          "slug": "bop-loops-quiz",
+          "meta": {
+            "is_free": true
+          },
+          "title": "Loops Quiz",
+          "locale": null,
+          "tags": [],
+          "time": 5,
+          "content": {},
+          "youtube_id": null,
+          "thumbnail_url": null,
+          "description": "Check your understanding of loops.\n",
+          "published_exercise_ids": []
+        }
+      }
+    }
+  },
+  "footer": {
+    "data": {
+      "urls": {
+        "nav": {
+          "company": {
+            "about": "/about",
+            "codecademy_for_business": "/business",
+            "shop": "https://shop.codecademy.com/",
+            "stories": "/stories",
+            "jobs": "/about/careers"
+          },
+          "resources": {
+            "beta_catalog": "/beta-catalog/subject/beta",
+            "articles": "/articles",
+            "forums": "https://discuss.codecademy.com/",
+            "help": "/help",
+            "blog": "/blog",
+            "roadmap": "https://trello.com/b/vAgDXtT6/codecademy-releases-roadmap"
+          }
+        },
+        "legal": {
+          "policy": "/policy",
+          "terms": "/terms"
+        }
+      },
+      "filters": {
+        "language": {
+          "filter_order": [
+            "html-css",
+            "python",
+            "javascript",
+            "java",
+            "sql",
+            "bash",
+            "ruby",
+            "c-plus-plus",
+            "r",
+            "c-sharp",
+            "php",
+            "go",
+            "swift"
+          ],
+          "names": {
+            "html-css": "HTML \u0026 CSS",
+            "python": "Python",
+            "javascript": "JavaScript",
+            "java": "Java",
+            "sql": "SQL",
+            "bash": "Bash/Shell",
+            "ruby": "Ruby",
+            "c-plus-plus": "C++",
+            "r": "R",
+            "c-sharp": "C#",
+            "php": "PHP",
+            "go": "Go",
+            "swift": "Swift"
+          }
+        },
+        "subject": {
+          "filter_order": [
+            "all",
+            "web-development",
+            "programming",
+            "data-science",
+            "partnerships",
+            "design",
+            "game-development"
+          ],
+          "names": {
+            "all": "Full Catalog",
+            "web-development": "Web Development",
+            "programming": "Programming",
+            "data-science": "Data Science",
+            "partnerships": "Partnerships",
+            "design": "Design",
+            "game-development": "Game Development"
+          }
+        }
+      }
+    }
+  },
+  "currentUser": {
+    "showTrialCTA": true,
+    "experiments": {
+      "exp_credit_card_trial_2019_8_21_existing_users": "variant"
+    },
+    "isInCreditCardTrialExperiment": true,
+    "roles": {
+      "isAnonymous": false,
+      "isPremium": false,
+      "isPro": false,
+      "isReviewer": false,
+      "isAdmin": false,
+      "isAuthor": false,
+      "isCustomerService": false,
+      "isFree": true,
+      "isInIntensive": false,
+      "isInTrialPlanInTrialPeriod": false
+    },
+    "careerInterest": null,
+    "mostRecentProgramId": null,
+    "achievements": [
+      {
+        "_id": "58610ee8854be9c37800039f",
+        "c": "2016-12-26T07:36:56.183-05:00",
+        "container_id": null,
+        "container_type": null,
+        "n": "Max Streak Count of 1",
+        "r": true,
+        "s": "max-streak-1"
+      },
+      {
+        "_id": "5b4c4201961bae35d8000443",
+        "c": "2018-07-16T02:58:09.281-04:00",
+        "container_id": null,
+        "container_type": null,
+        "n": "Lesson Completed: Intro to JSX",
+        "r": true,
+        "s": "lesson-react-101-react-jsx-intro"
+      },
+      {
+        "_id": "5b4dad8d23cd534069000393",
+        "c": "2018-07-17T04:49:17.280-04:00",
+        "container_id": null,
+        "container_type": null,
+        "n": "Lesson Completed: Advanced JSX",
+        "r": true,
+        "s": "lesson-react-101-react-jsx-advanced"
+      },
+      {
+        "_id": "5b4db8702524c80f910004b5",
+        "c": "2018-07-17T05:35:44.505-04:00",
+        "container_id": null,
+        "container_type": null,
+        "n": "Lesson Completed: Your First React Component",
+        "r": true,
+        "s": "lesson-react-101-your-first-react-component"
+      },
+      {
+        "_id": "5b4dc539582122b560000562",
+        "c": "2018-07-17T06:30:17.062-04:00",
+        "container_id": null,
+        "container_type": null,
+        "n": "Lesson Completed: Components and Advanced JSX",
+        "r": true,
+        "s": "lesson-react-101-react-components-advanced-jsx"
+      },
+      {
+        "_id": "5b4dc82a821b961e6f00013a",
+        "c": "2018-07-17T06:42:50.518-04:00",
+        "container_id": null,
+        "container_type": null,
+        "n": "Lesson Completed: Components Render Other Components",
+        "r": true,
+        "s": "lesson-react-101-components-render-each-other"
+      },
+      {
+        "_id": "5b4eb14c23cd5356380007f5",
+        "c": "2018-07-17T23:17:32.556-04:00",
+        "container_id": null,
+        "container_type": null,
+        "n": "Max Streak Count of 3",
+        "r": true,
+        "s": "max-streak-3"
+      },
+      {
+        "_id": "5b4ebc2de12813d7120002ba",
+        "c": "2018-07-18T00:03:57.843-04:00",
+        "container_id": null,
+        "container_type": null,
+        "n": "Lesson Completed: this.props",
+        "r": true,
+        "s": "lesson-react-101-this-props"
+      },
+      {
+        "_id": "5b4ec07423cd536b4c00011e",
+        "c": "2018-07-18T00:22:12.958-04:00",
+        "container_id": null,
+        "container_type": null,
+        "n": "Course Completed: Learn ReactJS: Part I",
+        "r": true,
+        "s": "course-react-101"
+      },
+      {
+        "_id": "5b4ec07423cd536b4c00011f",
+        "c": "2018-07-18T00:22:12.982-04:00",
+        "container_id": null,
+        "container_type": null,
+        "n": "Lesson Completed: this.state",
+        "r": true,
+        "s": "lesson-react-101-this-state"
+      }
+    ],
+    "authentications": {
+      "githubUsername": "nguyenson09111998"
+    },
+    "id": "58610e9f2ddfa32ab400039e",
+    "profileImage": "https://www.gravatar.com/avatar/b41724ce6a97cb89e4d080f875c12a99?s=140\u0026d=retro",
+    "programEnrollments": {},
+    "courseEnrollments": [
+      "11a686a7fd57b8c214f7f92749388d42",
+      "257c50bca4561663476f2fa8f6ac410c",
+      "666120308fc207a66d8afaa0dcf4ee19",
+      "705dcb15de0da4dd9d9fc4f3274b430e",
+      "9a5bb1fc45b4281af1fffec93b0aaf05",
+      "af00e5032d0a68cc84879983f5d8333b",
+      "b74a2390dfc4127fa5d43fe147425ad0",
+      "b8860151bce58aa30c6f272f89e22788"
+    ],
+    "username": "nguyenson09111998",
+    "handle": "nguyenson09111998",
+    "email": "nguyenson09111998@gmail.com",
+    "currentStreak": 0,
+    "hasTodaysStreak": false,
+    "weekly_streaks": {
+      "targetDays": 3,
+      "achievedDaysThisWeek": 0,
+      "weeksCompleted": 0
+    },
+    "subscription": {
+      "isProPaused": false,
+      "isProScheduledToPause": false
+    },
+    "canAccessProExclusiveCourse": false,
+    "showProAds": {
+      "currency": "USD",
+      "currency_symbol": "$",
+      "formatted_price": "239.88",
+      "formatted_monthly_price": "19.99",
+      "formatted_savings": "240",
+      "formatted_savings_six_months": "120",
+      "period": "year",
+      "period_number": 12,
+      "plan_id": "proAnnualV4a",
+      "price": 23988,
+      "title": "Annual Plan",
+      "title_2": "12 Month Subscription",
+      "link": "/subscriptions/proAnnualV4a/checkout",
+      "recommended": true,
+      "saving_percent": 50,
+      "monthly_price_without_savings": "39.99",
+      "price_without_savings": "479.88",
+      "trial_days": 0,
+      "is_trial_plan": false
+    }
+  },
+  "proExclusive": {
+    "courses": [
+      "learn-python-3",
+      "learn-web-scraping",
+      "learn-circuitpython",
+      "learn-javascript-unit-testing",
+      "learn-testing-for-web-development",
+      "machine-learning",
+      "linear-data-structures",
+      "complex-data-structures",
+      "learn-recursion-python",
+      "data-processing-pandas",
+      "intro-statistics-numpy",
+      "learn-navigation-design",
+      "sorting-algorithms",
+      "search-algorithms",
+      "data-visualization-python",
+      "build-interactive-websites",
+      "javascript-errors-debugging",
+      "technical-interview-practice-python",
+      "natural-language-processing",
+      "practical-data-cleaning",
+      "learn-d3",
+      "learn-vue-js",
+      "learn-node-js",
+      "learn-bootstrap",
+      "learn-rails",
+      "learn-jquery",
+      "learn-sass",
+      "deploy-a-website",
+      "machine-learning",
+      "learn-responsive-design",
+      "sql-analyzing-business-metrics",
+      "learn-express",
+      "introduction-to-blockchain",
+      "learn-node-sqlite",
+      "sql-table-transformation",
+      "learn-color-design",
+      "asynchronous-javascript",
+      "learn-statistics-with-python",
+      "rails-auth",
+      "learn-node-sqlite",
+      "learn-git",
+      "learn-the-command-line"
+    ]
+  },
+  "features": {
+    "active": [
+      "hotjar_tracking",
+      "expose_location_data_for_anonymous_users",
+      "content_service_migrated",
+      "ohio",
+      "new_corporate_pages",
+      "forum_topic_creation",
+      "contentful",
+      "search",
+      "replace_intensives_with_skill_paths",
+      "override_ga_referrer",
+      "community_landing_page",
+      "onboarding_all_entry_v2",
+      "skill_paths_in_onboarding",
+      "business_sales_page",
+      "executable_code_practice",
+      "fall_campaign_2019",
+      "calendar_exporter",
+      "practice_cta",
+      "pro_course_preview",
+      "practice_and_apply_upsell",
+      "nye_campaign_2020",
+      "progress_interstitial",
+      "mobile_app_interstitial",
+      "thirty_day_challenge_card",
+      "first_practice_pack_interstitial",
+      "containerless_content_pro_preview",
+      "premium_users",
+      "monaco_editor_if_supported",
+      "monaco_editor_stable",
+      "run_gateway_code_test"
+    ]
+  },
+  "scenes": {
+    "dashboard": {
+      "selectedSlug": "learn-how-to-code",
+      "upNextContentInfo": {
+        "learn-how-to-code": {
+          "nextContentItemId": "f3d1c75045d49d70f8792b7e1d64ea7d"
+        }
+      }
+    }
+  }
+}
+}}
