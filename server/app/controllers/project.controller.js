@@ -2,8 +2,8 @@ const Project = require('../models/project.model');
 
 getProject = async (req, res) => {
   try {
-    const projects = await Project.find();
-    res.status(200).json(projects);
+    // const projects = await Project.find();
+    res.status(200).json("hellow world");
   } catch (err) {
     res.status(500).json({
       message: err

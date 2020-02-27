@@ -2,11 +2,11 @@ import data from './data'
 import axios from 'axios';
 
 const ProductionConfiguration = {
-  AHVVA_SERVICE_ADDRESS: "https://testyduoconline.com/api",
+  AHVVA_SERVICE_ADDRESS: "http://localhost:5555",
 }
 
 const DevelopmentConfiguration = {
-  AHVVA_SERVICE_ADDRESS: "https://testyduoconline.com/api",
+  AHVVA_SERVICE_ADDRESS: "http://localhost:5555",
 }
 
 export const config = process.env.REACT_APP_ENV !== undefined ?
@@ -23,7 +23,7 @@ export const api = axios.create({
 
 async function getPosts() {
   console.log(process.env.REACT_APP_ENV)
-  return api.get('/display_sub');
+  return api.get('/projects');
   // return Promise.all(data.posts);
 }
 

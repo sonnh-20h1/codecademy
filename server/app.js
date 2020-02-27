@@ -13,16 +13,22 @@ const app = express();
 //Import file routes config
 const projectRouter = require('./app/routes/project.route');
 
+app.use(function(req, res, next) {
+    res.header("Access-Control-Allow-Origin", "http://localhost:5000"); // update to match the domain you will make the request from
+    res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
+    next();
+  });
 // Connecting to the database
 // mongoose.Promise = global.Promise;
-mongoose.connect(config.MONGO_URL, {
-    useNewUrlParser: true
-}).then(() => {
-    console.log("Successfully connected to the database");
-}).catch(err => {
-    console.log('Could not connect to the database. Exiting now...', err);
-    process.exit();
-});
+// mongoose.connect(config.MONGO_URL,{
+//     useUnifiedTopology: true,
+//     useNewUrlParser: true
+// }).then(() => {
+//     console.log("Successfully connected to the database");
+// }).catch(err => {
+//     console.log('Could not connect to the database. Exiting now...', err);
+//     process.exit();
+// });
 
 //Middlewares
 /**
@@ -39,7 +45,7 @@ app.use(express.json());       // to support JSON-encoded bodies
 
 //Router
 
-app.use('/project', projectRouter);
+app.use('/', projectRouter);
 
 // @Error/404 and forward to error  handle
 app.use((req, res, next) => {

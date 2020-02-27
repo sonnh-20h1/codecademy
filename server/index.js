@@ -4,7 +4,7 @@ const app = require('./app');
 const config = require('./config');
 
 //Define PORT
-const port = process.env.PORT || 5555;
+// const port = process.env.PORT || 5555;
 
 //Create a Server 
 const server = http.createServer(app);
